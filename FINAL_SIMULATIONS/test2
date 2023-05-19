@@ -1,0 +1,4241 @@
+starting worker pid=1596 on localhost:11511 at 15:18:33.967
+starting worker pid=20060 on localhost:11511 at 15:18:34.232
+starting worker pid=4616 on localhost:11511 at 15:18:34.531
+starting worker pid=20168 on localhost:11511 at 15:18:34.925
+starting worker pid=9576 on localhost:11511 at 15:18:35.216
+starting worker pid=2060 on localhost:11511 at 15:18:35.436
+starting worker pid=22404 on localhost:11511 at 15:18:35.687
+starting worker pid=17704 on localhost:11511 at 15:18:36.033
+Loading required package: cubature
+Loading required package: cubature
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: SimplicialCubature
+Loading required package: cubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: SimplicialCubature
+Loading required package: cubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: SimplicialCubature
+Loading required package: cubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: geometry
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: ttutils
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+Loading required package: geometry
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: SparseM
+Loading required package: geometry
+Loading required package: ttutils
+Loading required package: geometry
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: ttutils
+Loading required package: SparseM
+Loading required package: geometry
+Loading required package: ttutils
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: ttutils
+Loading required package: geometry
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: SparseM
+Loading required package: geometry
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: ttutils
+Loading required package: geometry
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: ttutils
+Loading required package: SparseM
+Loading required package: ttutils
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: SparseM
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+Step  1  of  tep  500  Step  simulation  of  5 00 of  from simulation  00p  4 =   rom simulation 1of 2tep   =    rom simulation  of   =  500 Step from simulation   from Step ation   1 00  from simulation      h =    1
+ 
+ 8  of  500  from simulation  1   h =  1 
+Step  9  of  500  from simulation  1   h =  1 
+Step  10  of  500  from simulation  1   h =  1 
+Step  1  of  500  from simulation  2   h =  1 
+Step  2  of  500  from simulation  2   h =  1 
+Step  3  of  500  from simulation  2   h =  1 
+Step  4  of  500  from simulation  2   h =  1 
+Step  5  of  500  from simulation  2   h =  1 
+Step  6  of  500  from simulation  2   h =  1 
+Step  7  of  500  from simulation  2   h =  1 
+Step  8  of  500  from simulation  2   h =  1 
+Step  9  of  500  from simulation  2   h =  1 
+Step  10  of  500  from simulation  2   h =  1 
+Step  1  of  500  from simulation  3   h =  1 
+Step  2  of  500  from simulation  3   h =  1 
+Step  3  of  500  from simulation  3   h =  1 
+Step  4  of  500  from simulation  3   h =  1 
+Step  5  of  500  from simulation  3   h =  1 
+Step  6  of  500  from simulation  3   h =  1 
+Step  7  of  500  from simulation  3   h =  1 
+Step  8  of  500  from simulation  3   h =  1 
+Step  9  of  500  from simulation  3   h =  1 
+Step  10  of  500  from simulation  3   h =  1 
+Step  1  of  500  from simulation  4   h =  1 
+Step  2  of  500  from simulation  4   h =  1 
+Step  3  of  500  from simulation  4   h =  1 
+Step  4  of  500  from simulation  4   h =  1 
+Step  5  of  500  from simulation  4   h =  1 
+Step  6  of  500  from simulation  4   h =  1 
+Step  7  of  500  from simulation  4   h =  1 
+Step  8  of  500  from simulation  4   h =  1 
+Step  9  of  500  from simulation  4   h =  1 
+Step  10  of  500  from simulation  4   h =  1 
+Step  1  of  500  from simulation  1   Step  32
+ of Step5 0  from simulation  1of  500p  Step   of  500 of   simulation  00 1rom simulation 7  of om simulation   Step5h 8   f2om simulation  1 =  
+2 
+500  from simulation  1   h =  2 
+   h =  2 
+  of  500  from simulation  1   h =  2 
+Step  9  of  500  from simulation  1   h =  2 
+Step  10  of  500  from simulation  1   h =  2 
+Step  1  of  500  from simulation  2   h =  2 
+Step  2  of  500  from simulation  2   h =  2 
+Step  3  of  500  from simulation  2   h =  2 
+Step  4  of  500  from simulation  2   h =  2 
+Step  5  of  500  from simulation  2   h =  2 
+Step  6  of  500  from simulation  2   h =  2 
+Step  7  of  500  from simulation  2   h =  2 
+Step  8  of  500  from simulation  2   h =  2 
+Step  9  of  500  from simulation  2   h =  2 
+Step  10  of  500  from simulation  2   h =  2 
+Step  1  of  500  from simulation  3   h =  2 
+Step  2  of  500  from simulation  3   h =  2 
+Step  3  of  500  from simulation  3   h =  2 
+Step  4  of  500  from simulation  3   h =  2 
+Step  5  of  500  from simulation  3   h =  2 
+Step  6  of  500  from simulation  3   h =  2 
+Step  7  of  500  from simulation  3   h =  2 
+Step  8  of  500  from simulation  3   h =  2 
+Step  9  of  500  from simulation  3   h =  2 
+Step  10  of  500  from simulation  3   h =  2 
+Step  1  of  500  from simulation  4   h =  2 
+Step  2  of  500  from simulation  4   h =  2 
+Step  3  of  500  from simulation  4   h =  2 
+Step  4  of  500  from simulation  4   h =  2 
+Step  5  of  500  from simulation  4   h =  2 
+Step  6  of  500  from simulation  4   h =  2 
+Step  7  of  500  from simulation  4   h =  2 
+Step  8  of  500  from simulation  4   h =  2 
+Step  9  of  500  from simulation  4   h =  2 
+Step  10  of  500  from simulation  4   h =  2 
+Step  S ep  Step  Step4 500p simulation    5 of m simulation   Step  00  =  500  Step simulation  Step simulation 3  1f    f 5     00   froh = mulation   
+om simulation  5 0 
+ 
+ from simulation   =  h3=  3 h =  
+3 
+Step  9  of  500  from simulation  1   h =  3 
+Step  10  of  500  from simulation  1   h =  3 
+Step  1  of  500  from simulation  2   h =  3 
+Step  2  of  500  from simulation  2   h =  3 
+Step  3  of  500  from simulation  2   h =  3 
+Step  4  of  500  from simulation  2   h =  3 
+Step  5  of  500  from simulation  2   h =  3 
+Step  6  of  500  from simulation  2   h =  3 
+Step  7  of  500  from simulation  2   h =  3 
+Step  8  of  500  from simulation  2   h =  3 
+Step  9  of  500  from simulation  2   h =  3 
+Step  10  of  500  from simulation  2   h =  3 
+Step  1  of  500  from simulation  3   h =  3 
+Step  2  of  500  from simulation  3   h =  3 
+Step  3  of  500  from simulation  3   h =  3 
+Step  4  of  500  from simulation  3   h =  3 
+Step  5  of  500  from simulation  3   h =  3 
+Step  6  of  500  from simulation  3   h =  3 
+Step  7  of  500  from simulation  3   h =  3 
+Step  8  of  500  from simulation  3   h =  3 
+Step  9  of  500  from simulation  3   h =  3 
+Step  10  of  500  from simulation  3   h =  3 
+Step  1  of  500  from simulation  4   h =  3 
+Step  2  of  500  from simulation  4   h =  3 
+Step  3  of  500  from simulation  4   h =  3 
+Step  4  of  500  from simulation  4   h =  3 
+Step  5  of  500  from simulation  4   h =  3 
+Step  6  of  500  from simulation  4   h =  3 
+Step  7  of  500  from simulation  4   h =  3 
+Step  8  of  500  from simulation  4   h =  3 
+Step  9  of  500  from simulation  4   h =  3 
+Step  10  of  500  from simulation  4   h =  3 
+Step  tep  1  of  of   Ste   from simulation 3S ep    from simulation   of  of  h =   00 h =  from simulation  from simulation 64Step   f 70 500 h =  of  from simulation   00 from simulation St fr1m simulation   8 h =  of   = 4h = 
+4from simulation  
+
+   h =  4 
+Step  9  of  500  from simulation  1   h =  4 
+Step  10  of  500  from simulation  1   h =  4 
+Step  1  of  500  from simulation  2   h =  4 
+Step  2  of  500  from simulation  2   h =  4 
+Step  3  of  500  from simulation  2   h =  4 
+Step  4  of  500  from simulation  2   h =  4 
+Step  5  of  500  from simulation  2   h =  4 
+Step  6  of  500  from simulation  2   h =  4 
+Step  7  of  500  from simulation  2   h =  4 
+Step  8  of  500  from simulation  2   h =  4 
+Step  9  of  500  from simulation  2   h =  4 
+Step  10  of  500  from simulation  2   h =  4 
+Step  1  of  500  from simulation  3   h =  4 
+Step  2  of  500  from simulation  3   h =  4 
+Step  3  of  500  from simulation  3   h =  4 
+Step  4  of  500  from simulation  3   h =  4 
+Step  5  of  500  from simulation  3   h =  4 
+Step  6  of  500  from simulation  3   h =  4 
+Step  7  of  500  from simulation  3   h =  4 
+Step  8  of  500  from simulation  3   h =  4 
+Step  9  of  500  from simulation  3   h =  4 
+Step  10  of  500  from simulation  3   h =  4 
+Step  1  of  500  from simulation  4   h =  4 
+Step  2  of  500  from simulation  4   h =  4 
+Step  3  of  500  from simulation  4   h =  4 
+Step  4  of  500  from simulation  4   h =  4 
+Step  5  of  500  from simulation  4   h =  4 
+Step  6  of  500  from simulation  4   h =  4 
+Step  7  of  500  from simulation  4   h =  4 
+Step  8  of  500  from simulation  4   h =  4 
+Step  9  of  500  from simulation  4   h =  4 
+Step  10  of  500  from simulation  4   h =  4 
+Step  2  of  of  Step    from simulation   1of  of    00500p h =  from simulation  tep 5Sh =  of m simulation   
+ep 500 h =    of m simulation  
+   from simulation1 
+01
+rom simulation    =   1 = h    
+5h    5
+ 
+Step  9  of  500  from simulation  1   h =  5 
+Step  10  of  500  from simulation  1   h =  5 
+Step  1  of  500  from simulation  2   h =  5 
+Step  2  of  500  from simulation  2   h =  5 
+Step  3  of  500  from simulation  2   h =  5 
+Step  4  of  500  from simulation  2   h =  5 
+Step  5  of  500  from simulation  2   h =  5 
+Step  6  of  500  from simulation  2   h =  5 
+Step  7  of  500  from simulation  2   h =  5 
+Step  8  of  500  from simulation  2   h =  5 
+Step  9  of  500  from simulation  2   h =  5 
+Step  10  of  500  from simulation  2   h =  5 
+Step  1  of  500  from simulation  3   h =  5 
+Step  2  of  500  from simulation  3   h =  5 
+Step  3  of  500  from simulation  3   h =  5 
+Step  4  of  500  from simulation  3   h =  5 
+Step  5  of  500  from simulation  3   h =  5 
+Step  6  of  500  from simulation  3   h =  5 
+Step  7  of  500  from simulation  3   h =  5 
+Step  8  of  500  from simulation  3   h =  5 
+Step  9  of  500  from simulation  3   h =  5 
+Step  10  of  500  from simulation  3   h =  5 
+Step  1  of  500  from simulation  4   h =  5 
+Step  2  of  500  from simulation  4   h =  5 
+Step  3  of  500  from simulation  4   h =  5 
+Step  4  of  500  from simulation  4   h =  5 
+Step  5  of  500  from simulation  4   h =  5 
+Step  6  of  500  from simulation  4   h =  5 
+Step  7  of  500  from simulation  4   h =  5 
+Step  8  of  500  from simulation  4   h =  5 
+Step  9  of  500  from simulation  4   h =  5 
+Step  10  of  500  from simulation  4   h =  5 
+Step  1  of  500  from simulation  1   h =  6 
+Step  2  of  500  from simulation  1   h =  6 
+Step Step  3tep 4 of   of Step  00 from simulation   from simulation 1 of 1  of  00500  = m simulation  tep  from simulation    h =   600 h =  Step  f  of imulation 
+100  from simulation    h =    =  6 
+
+Step  9  of  500  from simulation  1   h =  6 
+Step  10  of  500  from simulation  1   h =  6 
+Step  1  of  500  from simulation  2   h =  6 
+Step  2  of  500  from simulation  2   h =  6 
+Step  3  of  500  from simulation  2   h =  6 
+Step  4  of  500  from simulation  2   h =  6 
+Step  5  of  500  from simulation  2   h =  6 
+Step  6  of  500  from simulation  2   h =  6 
+Step  7  of  500  from simulation  2   h =  6 
+Step  8  of  500  from simulation  2   h =  6 
+Step  9  of  500  from simulation  2   h =  6 
+Step  10  of  500  from simulation  2   h =  6 
+Step  1  of  500  from simulation  3   h =  6 
+Step  2  of  500  from simulation  3   h =  6 
+Step  3  of  500  from simulation  3   h =  6 
+Step  4  of  500  from simulation  3   h =  6 
+Step  5  of  500  from simulation  3   h =  6 
+Step  6  of  500  from simulation  3   h =  6 
+Step  7  of  500  from simulation  3   h =  6 
+Step  8  of  500  from simulation  3   h =  6 
+Step  9  of  500  from simulation  3   h =  6 
+Step  10  of  500  from simulation  3   h =  6 
+Step  1  of  500  from simulation  4   h =  6 
+Step  2  of  500  from simulation  4   h =  6 
+Step  3  of  500  from simulation  4   h =  6 
+Step  4  of  500  from simulation  4   h =  6 
+Step  5  of  500  from simulation  4   h =  6 
+Step  6  of  500  from simulation  4   h =  6 
+Step  7  of  500  from simulation  4   h =  6 
+Step  8  of  500  from simulation  4   h =  6 
+Step  9  of  500  from simulation  4   h =  6 
+Step  10  of  500  from simulation  4   h =  6 
+Step  1  of  500  from simulation  1S ep  h =   of 7 00  from simulation  1   h = S7ep  
+3  of  500  from simulation  1S ep  h =    
+f  500  from simulation  1   h =  7 
+Step  5  of Step  006 tep  simulation   1of   500 h =  from simulation   f  
+1500  from simulation   = 17  h Step  8  of  500  from simulation  1   h =  7 
+Step  9  of  500  from simulation  1   h =  7 
+Step  10  of  500  from simulation  1   h =  7 
+Step  1  of  500  from simulation  2   h =  7 
+Step  2  of  500  from simulation  2   h =  7 
+Step  3  of  500  from simulation  2   h =  7 
+Step  4  of  500  from simulation  2   h =  7 
+Step  5  of  500  from simulation  2   h =  7 
+Step  6  of  500  from simulation  2   h =  7 
+Step  7  of  500  from simulation  2   h =  7 
+Step  8  of  500  from simulation  2   h =  7 
+Step  9  of  500  from simulation  2   h =  7 
+Step  10  of  500  from simulation  2   h =  7 
+Step  1  of  500  from simulation  3   h =  7 
+Step  2  of  500  from simulation  3   h =  7 
+Step  3  of  500  from simulation  3   h =  7 
+Step  4  of  500  from simulation  3   h =  7 
+Step  5  of  500  from simulation  3   h =  7 
+Step  6  of  500  from simulation  3   h =  7 
+Step  7  of  500  from simulation  3   h =  7 
+Step  8  of  500  from simulation  3   h =  7 
+Step  9  of  500  from simulation  3   h =  7 
+Step  10  of  500  from simulation  3   h =  7 
+Step  1  of  500  from simulation  4   h =  7 
+Step  2  of  500  from simulation  4   h =  7 
+Step  3  of  500  from simulation  4   h =  7 
+Step  4  of  500  from simulation  4   h =  7 
+Step  5  of  500  from simulation  4   h =  7 
+Step  6  of  500  from simulation  4   h =  7 
+Step  7  of  500  from simulation  4   h =  7 
+Step  8  of  500  from simulation  4   h =  7 
+Step  9  of  500  from simulation  4   h =  7 
+Step  10  of  500  from simulation  4   h =  7 
+Step  1  of  Step  from simulation  2tep    of  tep 500   8 f of simulation   St500  from simulation 5  1f   tep simulation    =1  8from simulation    of 
+= S800 8   
+om simulation  Step   00 
+ from simulation  of   8 00
+h =  from simulation 8 
+  h =  8 
+Step  9  of  500  from simulation  1   h =  8 
+Step  10  of  500  from simulation  1   h =  8 
+Step  1  of  500  from simulation  2   h =  8 
+Step  2  of  500  from simulation  2   h =  8 
+Step  3  of  500  from simulation  2   h =  8 
+Step  4  of  500  from simulation  2   h =  8 
+Step  5  of  500  from simulation  2   h =  8 
+Step  6  of  500  from simulation  2   h =  8 
+Step  7  of  500  from simulation  2   h =  8 
+Step  8  of  500  from simulation  2   h =  8 
+Step  9  of  500  from simulation  2   h =  8 
+Step  10  of  500  from simulation  2   h =  8 
+Step  1  of  500  from simulation  3   h =  8 
+Step  2  of  500  from simulation  3   h =  8 
+Step  3  of  500  from simulation  3   h =  8 
+Step  4  of  500  from simulation  3   h =  8 
+Step  5  of  500  from simulation  3   h =  8 
+Step  6  of  500  from simulation  3   h =  8 
+Step  7  of  500  from simulation  3   h =  8 
+Step  8  of  500  from simulation  3   h =  8 
+Step  9  of  500  from simulation  3   h =  8 
+Step  10  of  500  from simulation  3   h =  8 
+Step  1  of  500  from simulation  4   h =  8 
+Step  2  of  500  from simulation  4   h =  8 
+Step  3  of  500  from simulation  4   h =  8 
+Step  4  of  500  from simulation  4   h =  8 
+Step  5  of  500  from simulation  4   h =  8 
+Step  6  of  500  from simulation  4   h =  8 
+Step  7  of  500  from simulation  4   h =  8 
+Step  8  of  500  from simulation  4   h =  8 
+Step  9  of  500  from simulation  4   h =  8 
+Step  10  of  500  from simulation  4   h =  8 
+Step  1  of  500  from simulation  Step   h =  Step tep  400 Step  m simulation  1500 of   fro  simulation  of h =   00 from simulation  Ste from simulation  500   h =  simulation  of  
+ep 1500    
+ of m simulation  1
+=  00   from simulation   1 =  9 
+=  9 
+Step  9  of  500  from simulation  1   h =  9 
+Step  10  of  500  from simulation  1   h =  9 
+Step  1  of  500  from simulation  2   h =  9 
+Step  2  of  500  from simulation  2   h =  9 
+Step  3  of  500  from simulation  2   h =  9 
+Step  4  of  500  from simulation  2   h =  9 
+Step  5  of  500  from simulation  2   h =  9 
+Step  6  of  500  from simulation  2   h =  9 
+Step  7  of  500  from simulation  2   h =  9 
+Step  8  of  500  from simulation  2   h =  9 
+Step  9  of  500  from simulation  2   h =  9 
+Step  10  of  500  from simulation  2   h =  9 
+Step  1  of  500  from simulation  3   h =  9 
+Step  2  of  500  from simulation  3   h =  9 
+Step  3  of  500  from simulation  3   h =  9 
+Step  4  of  500  from simulation  3   h =  9 
+Step  5  of  500  from simulation  3   h =  9 
+Step  6  of  500  from simulation  3   h =  9 
+Step  7  of  500  from simulation  3   h =  9 
+Step  8  of  500  from simulation  3   h =  9 
+Step  9  of  500  from simulation  3   h =  9 
+Step  10  of  500  from simulation  3   h =  9 
+Step  1  of  500  from simulation  4   h =  9 
+Step  2  of  500  from simulation  4   h =  9 
+Step  3  of  500  from simulation  4   h =  9 
+Step  4  of  500  from simulation  4   h =  9 
+Step  5  of  500  from simulation  4   h =  9 
+Step  6  of  500  from simulation  4   h =  9 
+Step  7  of  500  from simulation  4   h =  9 
+Step  8  of  500  from simulation  4   h =  9 
+Step  9  of  500  from simulation  4   h =  9 
+Step  10  of  500  from simulation  4   h =  9 
+Step  1  of S500   from simulation    f  S500 Step 4from simulation   of  of  5 0 5 =  from simulation  0Step  simulation 1        500 Sth = 10  Step  simulation 5
+ 8 from simulation   1of  00 h =  from simulation  1  rom simulation   
+  10h = 
+h = 1010
+ 
+Step  9  of  500  from simulation  1   h =  10 
+Step  10  of  500  from simulation  1   h =  10 
+Step  1  of  500  from simulation  2   h =  10 
+Step  2  of  500  from simulation  2   h =  10 
+Step  3  of  500  from simulation  2   h =  10 
+Step  4  of  500  from simulation  2   h =  10 
+Step  5  of  500  from simulation  2   h =  10 
+Step  6  of  500  from simulation  2   h =  10 
+Step  7  of  500  from simulation  2   h =  10 
+Step  8  of  500  from simulation  2   h =  10 
+Step  9  of  500  from simulation  2   h =  10 
+Step  10  of  500  from simulation  2   h =  10 
+Step  1  of  500  from simulation  3   h =  10 
+Step  2  of  500  from simulation  3   h =  10 
+Step  3  of  500  from simulation  3   h =  10 
+Step  4  of  500  from simulation  3   h =  10 
+Step  5  of  500  from simulation  3   h =  10 
+Step  6  of  500  from simulation  3   h =  10 
+Step  7  of  500  from simulation  3   h =  10 
+Step  8  of  500  from simulation  3   h =  10 
+Step  9  of  500  from simulation  3   h =  10 
+Step  10  of  500  from simulation  3   h =  10 
+Step  1  of  500  from simulation  4   h =  10 
+Step  2  of  500  from simulation  4   h =  10 
+Step  3  of  500  from simulation  4   h =  10 
+Step  4  of  500  from simulation  4   h =  10 
+Step  5  of  500  from simulation  4   h =  10 
+Step  6  of  500  from simulation  4   h =  10 
+Step  7  of  500  from simulation  4   h =  10 
+Step  8  of  500  from simulation  4   h =  10 
+Step  9  of  500  from simulation  4   h =  10 
+Step  10  of  500  from simulation  4   h =  10 
+starting worker pid=15576 on localhost:11604 at 19:45:56.705
+starting worker pid=16620 on localhost:11604 at 19:45:57.042
+starting worker pid=13620 on localhost:11604 at 19:45:57.500
+starting worker pid=17996 on localhost:11604 at 19:45:57.857
+starting worker pid=17212 on localhost:11604 at 19:45:58.268
+starting worker pid=17192 on localhost:11604 at 19:45:58.726
+starting worker pid=976 on localhost:11604 at 19:45:59.152
+starting worker pid=14532 on localhost:11604 at 19:45:59.688
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+ze(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+starting worker pid=2892 on localhost:11190 at 09:26:37.664
+starting worker pid=12660 on localhost:11190 at 09:26:37.862
+starting worker pid=9524 on localhost:11190 at 09:26:38.057
+starting worker pid=14624 on localhost:11190 at 09:26:38.249
+starting worker pid=17108 on localhost:11190 at 09:26:38.492
+starting worker pid=3792 on localhost:11190 at 09:26:38.695
+starting worker pid=18404 on localhost:11190 at 09:26:38.886
+starting worker pid=13168 on localhost:11190 at 09:26:39.075
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Execution halted
+ze(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Execution halted
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+ze(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Execution halted
+starting worker pid=19444 on localhost:11145 at 18:44:37.087
+starting worker pid=14432 on localhost:11145 at 18:44:37.280
+starting worker pid=11992 on localhost:11145 at 18:44:37.464
+starting worker pid=3496 on localhost:11145 at 18:44:37.651
+starting worker pid=17000 on localhost:11145 at 18:44:37.909
+starting worker pid=4188 on localhost:11145 at 18:44:38.108
+starting worker pid=17608 on localhost:11145 at 18:44:38.291
+starting worker pid=148 on localhost:11145 at 18:44:38.489
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+e -> unserialize
+Error in unserialiExecution halted
+or reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Execution halted
+starting worker pid=7344 on localhost:11920 at 19:45:24.844
+starting worker pid=3464 on localhost:11920 at 19:45:25.024
+starting worker pid=3756 on localhost:11920 at 19:45:25.224
+starting worker pid=11460 on localhost:11920 at 19:45:25.416
+starting worker pid=8552 on localhost:11920 at 19:45:25.644
+starting worker pid=3448 on localhost:11920 at 19:45:25.848
+starting worker pid=16812 on localhost:11920 at 19:45:26.043
+starting worker pid=18156 on localhost:11920 at 19:45:26.223
+Loading required package: cubature
+Loading required package: cubature
+Loading required package: cubature
+Loading required package: cubature
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: SimplicialCubature
+Loading required package: SimplicialCubature
+Loading required package: SimplicialCubature
+Loading required package: SimplicialCubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: mvmesh
+Loading required package: mvmesh
+Loading required package: mvmesh
+Loading required package: mvmesh
+Loading required package: mvmesh
+Loading required package: SimplicialCubature
+Loading required package: rcdd
+Loading required package: rcdd
+Loading required package: rcdd
+Loading required package: rcdd
+Loading required package: rcdd
+Loading required package: rcdd
+Loading required package: mvmesh
+Loading required package: rcdd
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: rgl
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: rgl
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: rgl
+Loading required package: rgl
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: geometry
+Loading required package: geometry
+Loading required package: geometry
+Loading required package: geometry
+Loading required package: geometry
+Loading required package: geometry
+Loading required package: geometry
+Loading required package: geometry
+Loading required package: ttutils
+Loading required package: ttutils
+Loading required package: ttutils
+Loading required package: ttutils
+Loading required package: ttutils
+Loading required package: ttutils
+Loading required package: SparseM
+Loading required package: SparseM
+Loading required package: SparseM
+Loading required package: SparseM
+Loading required package: SparseM
+Loading required package: SparseM
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'SparseM'
+
+
+Attaching package: 'SparseM'
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'SparseM'
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+Step  Step   of    of  500Step  from simulation 31Step   00 h = m simulation 500  S from simulation    of 1 =  00  ep  of m simulation 17 =    o1o    500h =  1from simulation  from simulation  S1ep   8h = h = m simulation     
+h =  1 
+  of  500  from simulation  1   h =  1 
+Step  9  of  500  from simulation  1   h =  1 
+Step  10  of  500  from simulation  1   h =  1 
+Step  11  of  500  from simulation  1   h =  1 
+Step  12  of  500  from simulation  1   h =  1 
+Step  13  of  500  from simulation  1   h =  1 
+Step  14  of  500  from simulation  1   h =  1 
+Step  15  of  500  from simulation  1   h =  1 
+Step  16  of  500  from simulation  1   h =  1 
+Step  17  of  500  from simulation  1   h =  1 
+Step  18  of  500  from simulation  1   h =  1 
+Step  19  of  500  from simulation  1   h =  1 
+Step  20  of  500  from simulation  1   h =  1 
+Step  21  of  500  from simulation  1   h =  1 
+Step  22  of  500  from simulation  1   h =  1 
+Step  23  of  500  from simulation  1   h =  1 
+Step  24  of  500  from simulation  1   h =  1 
+Step  25  of  500  from simulation  1   h =  1 
+Step  26  of  500  from simulation  1   h =  1 
+Step  27  of  500  from simulation  1   h =  1 
+Step  28  of  500  from simulation  1   h =  1 
+Step  29  of  500  from simulation  1   h =  1 
+Step  30  of  500  from simulation  1   h =  1 
+Step  31  of  500  from simulation  1   h =  1 
+Step  32  of  500  from simulation  1   h =  1 
+Step  33  of  500  from simulation  1   h =  1 
+Step  34  of  500  from simulation  1   h =  1 
+Step  35  of  500  from simulation  1   h =  1 
+Step  36  of  500  from simulation  1   h =  1 
+Step  37  of  500  from simulation  1   h =  1 
+Step  38  of  500  from simulation  1   h =  1 
+Step  39  of  500  from simulation  1   h =  1 
+Step  40  of  500  from simulation  1   h =  1 
+Step  41  of  500  from simulation  1   h =  1 
+Step  42  of  500  from simulation  1   h =  1 
+Step  43  of  500  from simulation  1   h =  1 
+Step  44  of  500  from simulation  1   h =  1 
+Step  45  of  500  from simulation  1   h =  1 
+Step  46  of  500  from simulation  1   h =  1 
+Step  47  of  500  from simulation  1   h =  1 
+Step  48  of  500  from simulation  1   h =  1 
+Step  49  of  500  from simulation  1   h =  1 
+Step  50  of  500  from simulation  1   h =  1 
+Step  1  of  500  from simulation  2   h =  1 
+Step  2  of  500  from simulation  2   h =  1 
+Step  3  of  500  from simulation  2   h =  1 
+Step  4  of  500  from simulation  2   h =  1 
+Step  5  of  500  from simulation  2   h =  1 
+Step  6  of  500  from simulation  2   h =  1 
+Step  7  of  500  from simulation  2   h =  1 
+Step  8  of  500  from simulation  2   h =  1 
+Step  9  of  500  from simulation  2   h =  1 
+Step  10  of  500  from simulation  2   h =  1 
+Step  11  of  500  from simulation  2   h =  1 
+Step  12  of  500  from simulation  2   h =  1 
+Step  13  of  500  from simulation  2   h =  1 
+Step  14  of  500  from simulation  2   h =  1 
+Step  15  of  500  from simulation  2   h =  1 
+Step  16  of  500  from simulation  2   h =  1 
+Step  17  of  500  from simulation  2   h =  1 
+Step  18  of  500  from simulation  2   h =  1 
+Step  19  of  500  from simulation  2   h =  1 
+Step  20  of  500  from simulation  2   h =  1 
+Step  21  of  500  from simulation  2   h =  1 
+Step  22  of  500  from simulation  2   h =  1 
+Step  23  of  500  from simulation  2   h =  1 
+Step  24  of  500  from simulation  2   h =  1 
+Step  25  of  500  from simulation  2   h =  1 
+Step  26  of  500  from simulation  2   h =  1 
+Step  27  of  500  from simulation  2   h =  1 
+Step  28  of  500  from simulation  2   h =  1 
+Step  29  of  500  from simulation  2   h =  1 
+Step  30  of  500  from simulation  2   h =  1 
+Step  31  of  500  from simulation  2   h =  1 
+Step  32  of  500  from simulation  2   h =  1 
+Step  33  of  500  from simulation  2   h =  1 
+Step  34  of  500  from simulation  2   h =  1 
+Step  35  of  500  from simulation  2   h =  1 
+Step  36  of  500  from simulation  2   h =  1 
+Step  37  of  500  from simulation  2   h =  1 
+Step  38  of  500  from simulation  2   h =  1 
+Step  39  of  500  from simulation  2   h =  1 
+Step  40  of  500  from simulation  2   h =  1 
+Step  41  of  500  from simulation  2   h =  1 
+Step  42  of  500  from simulation  2   h =  1 
+Step  43  of  500  from simulation  2   h =  1 
+Step  44  of  500  from simulation  2   h =  1 
+Step  45  of  500  from simulation  2   h =  1 
+Step  46  of  500  from simulation  2   h =  1 
+Step  47  of  500  from simulation  2   h =  1 
+Step  48  of  500  from simulation  2   h =  1 
+Step  49  of  500  from simulation  2   h =  1 
+Step  50  of  500  from simulation  2   h =  1 
+Step  1  of  500  from simulation  3   h =  1 
+Step  2  of  500  from simulation  3   h =  1 
+Step  3  of  500  from simulation  3   h =  1 
+Step  4  of  500  from simulation  3   h =  1 
+Step  5  of  500  from simulation  3   h =  1 
+Step  6  of  500  from simulation  3   h =  1 
+Step  7  of  500  from simulation  3   h =  1 
+Step  8  of  500  from simulation  3   h =  1 
+Step  9  of  500  from simulation  3   h =  1 
+Step  10  of  500  from simulation  3   h =  1 
+Step  11  of  500  from simulation  3   h =  1 
+Step  12  of  500  from simulation  3   h =  1 
+Step  13  of  500  from simulation  3   h =  1 
+Step  14  of  500  from simulation  3   h =  1 
+Step  15  of  500  from simulation  3   h =  1 
+Step  16  of  500  from simulation  3   h =  1 
+Step  17  of  500  from simulation  3   h =  1 
+Step  18  of  500  from simulation  3   h =  1 
+Step  19  of  500  from simulation  3   h =  1 
+Step  20  of  500  from simulation  3   h =  1 
+Step  21  of  500  from simulation  3   h =  1 
+Step  22  of  500  from simulation  3   h =  1 
+Step  23  of  500  from simulation  3   h =  1 
+Step  24  of  500  from simulation  3   h =  1 
+Step  25  of  500  from simulation  3   h =  1 
+Step  26  of  500  from simulation  3   h =  1 
+Step  27  of  500  from simulation  3   h =  1 
+Step  28  of  500  from simulation  3   h =  1 
+Step  29  of  500  from simulation  3   h =  1 
+Step  30  of  500  from simulation  3   h =  1 
+Step  31  of  500  from simulation  3   h =  1 
+Step  32  of  500  from simulation  3   h =  1 
+Step  33  of  500  from simulation  3   h =  1 
+Step  34  of  500  from simulation  3   h =  1 
+Step  35  of  500  from simulation  3   h =  1 
+Step  36  of  500  from simulation  3   h =  1 
+Step  37  of  500  from simulation  3   h =  1 
+Step  38  of  500  from simulation  3   h =  1 
+Step  39  of  500  from simulation  3   h =  1 
+Step  40  of  500  from simulation  3   h =  1 
+Step  41  of  500  from simulation  3   h =  1 
+Step  42  of  500  from simulation  3   h =  1 
+Step  43  of  500  from simulation  3   h =  1 
+Step  44  of  500  from simulation  3   h =  1 
+Step  45  of  500  from simulation  3   h =  1 
+Step  46  of  500  from simulation  3   h =  1 
+Step  47  of  500  from simulation  3   h =  1 
+Step  48  of  500  from simulation  3   h =  1 
+Step  49  of  500  from simulation  3   h =  1 
+Step  50  of  500  from simulation  3   h =  1 
+Step  1  of  500  from simulation  4   h =  1 
+Step  2  of  500  from simulation  4   h =  1 
+Step  3  of  500  from simulation  4   h =  1 
+Step  4  of  500  from simulation  4   h =  1 
+Step  5  of  500  from simulation  4   h =  1 
+Step  6  of  500  from simulation  4   h =  1 
+Step  7  of  500  from simulation  4   h =  1 
+Step  8  of  500  from simulation  4   h =  1 
+Step  9  of  500  from simulation  4   h =  1 
+Step  10  of  500  from simulation  4   h =  1 
+Step  11  of  500  from simulation  4   h =  1 
+Step  12  of  500  from simulation  4   h =  1 
+Step  13  of  500  from simulation  4   h =  1 
+Step  14  of  500  from simulation  4   h =  1 
+Step  15  of  500  from simulation  4   h =  1 
+Step  16  of  500  from simulation  4   h =  1 
+Step  17  of  500  from simulation  4   h =  1 
+Step  18  of  500  from simulation  4   h =  1 
+Step  19  of  500  from simulation  4   h =  1 
+Step  20  of  500  from simulation  4   h =  1 
+Step  21  of  500  from simulation  4   h =  1 
+Step  22  of  500  from simulation  4   h =  1 
+Step  23  of  500  from simulation  4   h =  1 
+Step  24  of  500  from simulation  4   h =  1 
+Step  25  of  500  from simulation  4   h =  1 
+Step  26  of  500  from simulation  4   h =  1 
+Step  27  of  500  from simulation  4   h =  1 
+Step  28  of  500  from simulation  4   h =  1 
+Step  29  of  500  from simulation  4   h =  1 
+Step  30  of  500  from simulation  4   h =  1 
+Step  31  of  500  from simulation  4   h =  1 
+Step  32  of  500  from simulation  4   h =  1 
+Step  33  of  500  from simulation  4   h =  1 
+Step  34  of  500  from simulation  4   h =  1 
+Step  35  of  500  from simulation  4   h =  1 
+Step  36  of  500  from simulation  4   h =  1 
+Step  37  of  500  from simulation  4   h =  1 
+Step  38  of  500  from simulation  4   h =  1 
+Step  39  of  500  from simulation  4   h =  1 
+Step  40  of  500  from simulation  4   h =  1 
+Step  41  of  500  from simulation  4   h =  1 
+Step  42  of  500  from simulation  4   h =  1 
+Step  43  of  500  from simulation  4   h =  1 
+Step  44  of  500  from simulation  4   h =  1 
+Step  45  of  500  from simulation  4   h =  1 
+Step  46  of  500  from simulation  4   h =  1 
+Step  47  of  500  from simulation  4   h =  1 
+Step  48  of  500  from simulation  4   h =  1 
+Step  49  of  500  from simulation  4   h =  1 
+Step  50  of  500  from simulation  4   h =  1 
+Step Step  2 of  of 500Step  from3simulation  1 of m simulation   S500=  of 5 50  rom simulation  of  h500    from simulation  h = 1
+  S ep  h = 7 S2ep  of   500   of  from simulation  5001   from simulation   1h =    Steh =    
+6  of  500  from simulation  1   h =  2 
+ from simulation  1   h =  2 
+Step  9  of  500  from simulation  1   h =  2 
+Step  10  of  500  from simulation  1   h =  2 
+Step  11  of  500  from simulation  1   h =  2 
+Step  12  of  500  from simulation  1   h =  2 
+Step  13  of  500  from simulation  1   h =  2 
+Step  14  of  500  from simulation  1   h =  2 
+Step  15  of  500  from simulation  1   h =  2 
+Step  16  of  500  from simulation  1   h =  2 
+Step  17  of  500  from simulation  1   h =  2 
+Step  18  of  500  from simulation  1   h =  2 
+Step  19  of  500  from simulation  1   h =  2 
+Step  20  of  500  from simulation  1   h =  2 
+Step  21  of  500  from simulation  1   h =  2 
+Step  22  of  500  from simulation  1   h =  2 
+Step  23  of  500  from simulation  1   h =  2 
+Step  24  of  500  from simulation  1   h =  2 
+Step  25  of  500  from simulation  1   h =  2 
+Step  26  of  500  from simulation  1   h =  2 
+Step  27  of  500  from simulation  1   h =  2 
+Step  28  of  500  from simulation  1   h =  2 
+Step  29  of  500  from simulation  1   h =  2 
+Step  30  of  500  from simulation  1   h =  2 
+Step  31  of  500  from simulation  1   h =  2 
+Step  32  of  500  from simulation  1   h =  2 
+Step  33  of  500  from simulation  1   h =  2 
+Step  34  of  500  from simulation  1   h =  2 
+Step  35  of  500  from simulation  1   h =  2 
+Step  36  of  500  from simulation  1   h =  2 
+Step  37  of  500  from simulation  1   h =  2 
+Step  38  of  500  from simulation  1   h =  2 
+Step  39  of  500  from simulation  1   h =  2 
+Step  40  of  500  from simulation  1   h =  2 
+Step  41  of  500  from simulation  1   h =  2 
+Step  42  of  500  from simulation  1   h =  2 
+Step  43  of  500  from simulation  1   h =  2 
+Step  44  of  500  from simulation  1   h =  2 
+Step  45  of  500  from simulation  1   h =  2 
+Step  46  of  500  from simulation  1   h =  2 
+Step  47  of  500  from simulation  1   h =  2 
+Step  48  of  500  from simulation  1   h =  2 
+Step  49  of  500  from simulation  1   h =  2 
+Step  50  of  500  from simulation  1   h =  2 
+Step  1  of  500  from simulation  2   h =  2 
+Step  2  of  500  from simulation  2   h =  2 
+Step  3  of  500  from simulation  2   h =  2 
+Step  4  of  500  from simulation  2   h =  2 
+Step  5  of  500  from simulation  2   h =  2 
+Step  6  of  500  from simulation  2   h =  2 
+Step  7  of  500  from simulation  2   h =  2 
+Step  8  of  500  from simulation  2   h =  2 
+Step  9  of  500  from simulation  2   h =  2 
+Step  10  of  500  from simulation  2   h =  2 
+Step  11  of  500  from simulation  2   h =  2 
+Step  12  of  500  from simulation  2   h =  2 
+Step  13  of  500  from simulation  2   h =  2 
+Step  14  of  500  from simulation  2   h =  2 
+Step  15  of  500  from simulation  2   h =  2 
+Step  16  of  500  from simulation  2   h =  2 
+Step  17  of  500  from simulation  2   h =  2 
+Step  18  of  500  from simulation  2   h =  2 
+Step  19  of  500  from simulation  2   h =  2 
+Step  20  of  500  from simulation  2   h =  2 
+Step  21  of  500  from simulation  2   h =  2 
+Step  22  of  500  from simulation  2   h =  2 
+Step  23  of  500  from simulation  2   h =  2 
+Step  24  of  500  from simulation  2   h =  2 
+Step  25  of  500  from simulation  2   h =  2 
+Step  26  of  500  from simulation  2   h =  2 
+Step  27  of  500  from simulation  2   h =  2 
+Step  28  of  500  from simulation  2   h =  2 
+Step  29  of  500  from simulation  2   h =  2 
+Step  30  of  500  from simulation  2   h =  2 
+Step  31  of  500  from simulation  2   h =  2 
+Step  32  of  500  from simulation  2   h =  2 
+Step  33  of  500  from simulation  2   h =  2 
+Step  34  of  500  from simulation  2   h =  2 
+Step  35  of  500  from simulation  2   h =  2 
+Step  36  of  500  from simulation  2   h =  2 
+Step  37  of  500  from simulation  2   h =  2 
+Step  38  of  500  from simulation  2   h =  2 
+Step  39  of  500  from simulation  2   h =  2 
+Step  40  of  500  from simulation  2   h =  2 
+Step  41  of  500  from simulation  2   h =  2 
+Step  42  of  500  from simulation  2   h =  2 
+Step  43  of  500  from simulation  2   h =  2 
+Step  44  of  500  from simulation  2   h =  2 
+Step  45  of  500  from simulation  2   h =  2 
+Step  46  of  500  from simulation  2   h =  2 
+Step  47  of  500  from simulation  2   h =  2 
+Step  48  of  500  from simulation  2   h =  2 
+Step  49  of  500  from simulation  2   h =  2 
+Step  50  of  500  from simulation  2   h =  2 
+Step  1  of  500  from simulation  3   h =  2 
+Step  2  of  500  from simulation  3   h =  2 
+Step  3  of  500  from simulation  3   h =  2 
+Step  4  of  500  from simulation  3   h =  2 
+Step  5  of  500  from simulation  3   h =  2 
+Step  6  of  500  from simulation  3   h =  2 
+Step  7  of  500  from simulation  3   h =  2 
+Step  8  of  500  from simulation  3   h =  2 
+Step  9  of  500  from simulation  3   h =  2 
+Step  10  of  500  from simulation  3   h =  2 
+Step  11  of  500  from simulation  3   h =  2 
+Step  12  of  500  from simulation  3   h =  2 
+Step  13  of  500  from simulation  3   h =  2 
+Step  14  of  500  from simulation  3   h =  2 
+Step  15  of  500  from simulation  3   h =  2 
+Step  16  of  500  from simulation  3   h =  2 
+Step  17  of  500  from simulation  3   h =  2 
+Step  18  of  500  from simulation  3   h =  2 
+Step  19  of  500  from simulation  3   h =  2 
+Step  20  of  500  from simulation  3   h =  2 
+Step  21  of  500  from simulation  3   h =  2 
+Step  22  of  500  from simulation  3   h =  2 
+Step  23  of  500  from simulation  3   h =  2 
+Step  24  of  500  from simulation  3   h =  2 
+Step  25  of  500  from simulation  3   h =  2 
+Step  26  of  500  from simulation  3   h =  2 
+Step  27  of  500  from simulation  3   h =  2 
+Step  28  of  500  from simulation  3   h =  2 
+Step  29  of  500  from simulation  3   h =  2 
+Step  30  of  500  from simulation  3   h =  2 
+Step  31  of  500  from simulation  3   h =  2 
+Step  32  of  500  from simulation  3   h =  2 
+Step  33  of  500  from simulation  3   h =  2 
+Step  34  of  500  from simulation  3   h =  2 
+Step  35  of  500  from simulation  3   h =  2 
+Step  36  of  500  from simulation  3   h =  2 
+Step  37  of  500  from simulation  3   h =  2 
+Step  38  of  500  from simulation  3   h =  2 
+Step  39  of  500  from simulation  3   h =  2 
+Step  40  of  500  from simulation  3   h =  2 
+Step  41  of  500  from simulation  3   h =  2 
+Step  42  of  500  from simulation  3   h =  2 
+Step  43  of  500  from simulation  3   h =  2 
+Step  44  of  500  from simulation  3   h =  2 
+Step  45  of  500  from simulation  3   h =  2 
+Step  46  of  500  from simulation  3   h =  2 
+Step  47  of  500  from simulation  3   h =  2 
+Step  48  of  500  from simulation  3   h =  2 
+Step  49  of  500  from simulation  3   h =  2 
+Step  50  of  500  from simulation  3   h =  2 
+Step  1  of  500  from simulation  4   h =  2 
+Step  2  of  500  from simulation  4   h =  2 
+Step  3  of  500  from simulation  4   h =  2 
+Step  4  of  500  from simulation  4   h =  2 
+Step  5  of  500  from simulation  4   h =  2 
+Step  6  of  500  from simulation  4   h =  2 
+Step  7  of  500  from simulation  4   h =  2 
+Step  8  of  500  from simulation  4   h =  2 
+Step  9  of  500  from simulation  4   h =  2 
+Step  10  of  500  from simulation  4   h =  2 
+Step  11  of  500  from simulation  4   h =  2 
+Step  12  of  500  from simulation  4   h =  2 
+Step  13  of  500  from simulation  4   h =  2 
+Step  14  of  500  from simulation  4   h =  2 
+Step  15  of  500  from simulation  4   h =  2 
+Step  16  of  500  from simulation  4   h =  2 
+Step  17  of  500  from simulation  4   h =  2 
+Step  18  of  500  from simulation  4   h =  2 
+Step  19  of  500  from simulation  4   h =  2 
+Step  20  of  500  from simulation  4   h =  2 
+Step  21  of  500  from simulation  4   h =  2 
+Step  22  of  500  from simulation  4   h =  2 
+Step  23  of  500  from simulation  4   h =  2 
+Step  24  of  500  from simulation  4   h =  2 
+Step  25  of  500  from simulation  4   h =  2 
+Step  26  of  500  from simulation  4   h =  2 
+Step  27  of  500  from simulation  4   h =  2 
+Step  28  of  500  from simulation  4   h =  2 
+Step  29  of  500  from simulation  4   h =  2 
+Step  30  of  500  from simulation  4   h =  2 
+Step  31  of  500  from simulation  4   h =  2 
+Step  32  of  500  from simulation  4   h =  2 
+Step  33  of  500  from simulation  4   h =  2 
+Step  34  of  500  from simulation  4   h =  2 
+Step  35  of  500  from simulation  4   h =  2 
+Step  36  of  500  from simulation  4   h =  2 
+Step  37  of  500  from simulation  4   h =  2 
+Step  38  of  500  from simulation  4   h =  2 
+Step  39  of  500  from simulation  4   h =  2 
+Step  40  of  500  from simulation  4   h =  2 
+Step  41  of  500  from simulation  4   h =  2 
+Step  42  of  500  from simulation  4   h =  2 
+Step  43  of  500  from simulation  4   h =  2 
+Step  44  of  500  from simulation  4   h =  2 
+Step  45  of  500  from simulation  4   h =  2 
+Step  46  of  500  from simulation  4   h =  2 
+Step  47  of  500  from simulation  4   h =  2 
+Step  48  of  500  from simulation  4   h =  2 
+Step  49  of  500  from simulation  4   h =  2 
+Step  50  of  500  from simulation  4   h =  2 
+Step Step  2 of  of  500 00  from simulation  from simulation   11    Step  3  
+ 
+f  Step  from simulation 4 Step   005 from simulation  of h =  tep  from simulation h =   3 of  S500   =  7rom simulation  1 of S ep  00h =  3from simulation  of  1
+ 00   from simulation  1 =  3 
+=  3 
+Step  9  of  500  from simulation  1   h =  3 
+Step  10  of  500  from simulation  1   h =  3 
+Step  11  of  500  from simulation  1   h =  3 
+Step  12  of  500  from simulation  1   h =  3 
+Step  13  of  500  from simulation  1   h =  3 
+Step  14  of  500  from simulation  1   h =  3 
+Step  15  of  500  from simulation  1   h =  3 
+Step  16  of  500  from simulation  1   h =  3 
+Step  17  of  500  from simulation  1   h =  3 
+Step  18  of  500  from simulation  1   h =  3 
+Step  19  of  500  from simulation  1   h =  3 
+Step  20  of  500  from simulation  1   h =  3 
+Step  21  of  500  from simulation  1   h =  3 
+Step  22  of  500  from simulation  1   h =  3 
+Step  23  of  500  from simulation  1   h =  3 
+Step  24  of  500  from simulation  1   h =  3 
+Step  25  of  500  from simulation  1   h =  3 
+Step  26  of  500  from simulation  1   h =  3 
+Step  27  of  500  from simulation  1   h =  3 
+Step  28  of  500  from simulation  1   h =  3 
+Step  29  of  500  from simulation  1   h =  3 
+Step  30  of  500  from simulation  1   h =  3 
+Step  31  of  500  from simulation  1   h =  3 
+Step  32  of  500  from simulation  1   h =  3 
+Step  33  of  500  from simulation  1   h =  3 
+Step  34  of  500  from simulation  1   h =  3 
+Step  35  of  500  from simulation  1   h =  3 
+Step  36  of  500  from simulation  1   h =  3 
+Step  37  of  500  from simulation  1   h =  3 
+Step  38  of  500  from simulation  1   h =  3 
+Step  39  of  500  from simulation  1   h =  3 
+Step  40  of  500  from simulation  1   h =  3 
+Step  41  of  500  from simulation  1   h =  3 
+Step  42  of  500  from simulation  1   h =  3 
+Step  43  of  500  from simulation  1   h =  3 
+Step  44  of  500  from simulation  1   h =  3 
+Step  45  of  500  from simulation  1   h =  3 
+Step  46  of  500  from simulation  1   h =  3 
+Step  47  of  500  from simulation  1   h =  3 
+Step  48  of  500  from simulation  1   h =  3 
+Step  49  of  500  from simulation  1   h =  3 
+Step  50  of  500  from simulation  1   h =  3 
+Step  1  of  500  from simulation  2   h =  3 
+Step  2  of  500  from simulation  2   h =  3 
+Step  3  of  500  from simulation  2   h =  3 
+Step  4  of  500  from simulation  2   h =  3 
+Step  5  of  500  from simulation  2   h =  3 
+Step  6  of  500  from simulation  2   h =  3 
+Step  7  of  500  from simulation  2   h =  3 
+Step  8  of  500  from simulation  2   h =  3 
+Step  9  of  500  from simulation  2   h =  3 
+Step  10  of  500  from simulation  2   h =  3 
+Step  11  of  500  from simulation  2   h =  3 
+Step  12  of  500  from simulation  2   h =  3 
+Step  13  of  500  from simulation  2   h =  3 
+Step  14  of  500  from simulation  2   h =  3 
+Step  15  of  500  from simulation  2   h =  3 
+Step  16  of  500  from simulation  2   h =  3 
+Step  17  of  500  from simulation  2   h =  3 
+Step  18  of  500  from simulation  2   h =  3 
+Step  19  of  500  from simulation  2   h =  3 
+Step  20  of  500  from simulation  2   h =  3 
+Step  21  of  500  from simulation  2   h =  3 
+Step  22  of  500  from simulation  2   h =  3 
+Step  23  of  500  from simulation  2   h =  3 
+Step  24  of  500  from simulation  2   h =  3 
+Step  25  of  500  from simulation  2   h =  3 
+Step  26  of  500  from simulation  2   h =  3 
+Step  27  of  500  from simulation  2   h =  3 
+Step  28  of  500  from simulation  2   h =  3 
+Step  29  of  500  from simulation  2   h =  3 
+Step  30  of  500  from simulation  2   h =  3 
+Step  31  of  500  from simulation  2   h =  3 
+Step  32  of  500  from simulation  2   h =  3 
+Step  33  of  500  from simulation  2   h =  3 
+Step  34  of  500  from simulation  2   h =  3 
+Step  35  of  500  from simulation  2   h =  3 
+Step  36  of  500  from simulation  2   h =  3 
+Step  37  of  500  from simulation  2   h =  3 
+Step  38  of  500  from simulation  2   h =  3 
+Step  39  of  500  from simulation  2   h =  3 
+Step  40  of  500  from simulation  2   h =  3 
+Step  41  of  500  from simulation  2   h =  3 
+Step  42  of  500  from simulation  2   h =  3 
+Step  43  of  500  from simulation  2   h =  3 
+Step  44  of  500  from simulation  2   h =  3 
+Step  45  of  500  from simulation  2   h =  3 
+Step  46  of  500  from simulation  2   h =  3 
+Step  47  of  500  from simulation  2   h =  3 
+Step  48  of  500  from simulation  2   h =  3 
+Step  49  of  500  from simulation  2   h =  3 
+Step  50  of  500  from simulation  2   h =  3 
+Step  1  of  500  from simulation  3   h =  3 
+Step  2  of  500  from simulation  3   h =  3 
+Step  3  of  500  from simulation  3   h =  3 
+Step  4  of  500  from simulation  3   h =  3 
+Step  5  of  500  from simulation  3   h =  3 
+Step  6  of  500  from simulation  3   h =  3 
+Step  7  of  500  from simulation  3   h =  3 
+Step  8  of  500  from simulation  3   h =  3 
+Step  9  of  500  from simulation  3   h =  3 
+Step  10  of  500  from simulation  3   h =  3 
+Step  11  of  500  from simulation  3   h =  3 
+Step  12  of  500  from simulation  3   h =  3 
+Step  13  of  500  from simulation  3   h =  3 
+Step  14  of  500  from simulation  3   h =  3 
+Step  15  of  500  from simulation  3   h =  3 
+Step  16  of  500  from simulation  3   h =  3 
+Step  17  of  500  from simulation  3   h =  3 
+Step  18  of  500  from simulation  3   h =  3 
+Step  19  of  500  from simulation  3   h =  3 
+Step  20  of  500  from simulation  3   h =  3 
+Step  21  of  500  from simulation  3   h =  3 
+Step  22  of  500  from simulation  3   h =  3 
+Step  23  of  500  from simulation  3   h =  3 
+Step  24  of  500  from simulation  3   h =  3 
+Step  25  of  500  from simulation  3   h =  3 
+Step  26  of  500  from simulation  3   h =  3 
+Step  27  of  500  from simulation  3   h =  3 
+Step  28  of  500  from simulation  3   h =  3 
+Step  29  of  500  from simulation  3   h =  3 
+Step  30  of  500  from simulation  3   h =  3 
+Step  31  of  500  from simulation  3   h =  3 
+Step  32  of  500  from simulation  3   h =  3 
+Step  33  of  500  from simulation  3   h =  3 
+Step  34  of  500  from simulation  3   h =  3 
+Step  35  of  500  from simulation  3   h =  3 
+Step  36  of  500  from simulation  3   h =  3 
+Step  37  of  500  from simulation  3   h =  3 
+Step  38  of  500  from simulation  3   h =  3 
+Step  39  of  500  from simulation  3   h =  3 
+Step  40  of  500  from simulation  3   h =  3 
+Step  41  of  500  from simulation  3   h =  3 
+Step  42  of  500  from simulation  3   h =  3 
+Step  43  of  500  from simulation  3   h =  3 
+Step  44  of  500  from simulation  3   h =  3 
+Step  45  of  500  from simulation  3   h =  3 
+Step  46  of  500  from simulation  3   h =  3 
+Step  47  of  500  from simulation  3   h =  3 
+Step  48  of  500  from simulation  3   h =  3 
+Step  49  of  500  from simulation  3   h =  3 
+Step  50  of  500  from simulation  3   h =  3 
+Step  1  of  500  from simulation  4   h =  3 
+Step  2  of  500  from simulation  4   h =  3 
+Step  3  of  500  from simulation  4   h =  3 
+Step  4  of  500  from simulation  4   h =  3 
+Step  5  of  500  from simulation  4   h =  3 
+Step  6  of  500  from simulation  4   h =  3 
+Step  7  of  500  from simulation  4   h =  3 
+Step  8  of  500  from simulation  4   h =  3 
+Step  9  of  500  from simulation  4   h =  3 
+Step  10  of  500  from simulation  4   h =  3 
+Step  11  of  500  from simulation  4   h =  3 
+Step  12  of  500  from simulation  4   h =  3 
+Step  13  of  500  from simulation  4   h =  3 
+Step  14  of  500  from simulation  4   h =  3 
+Step  15  of  500  from simulation  4   h =  3 
+Step  16  of  500  from simulation  4   h =  3 
+Step  17  of  500  from simulation  4   h =  3 
+Step  18  of  500  from simulation  4   h =  3 
+Step  19  of  500  from simulation  4   h =  3 
+Step  20  of  500  from simulation  4   h =  3 
+Step  21  of  500  from simulation  4   h =  3 
+Step  22  of  500  from simulation  4   h =  3 
+Step  23  of  500  from simulation  4   h =  3 
+Step  24  of  500  from simulation  4   h =  3 
+Step  25  of  500  from simulation  4   h =  3 
+Step  26  of  500  from simulation  4   h =  3 
+Step  27  of  500  from simulation  4   h =  3 
+Step  28  of  500  from simulation  4   h =  3 
+Step  29  of  500  from simulation  4   h =  3 
+Step  30  of  500  from simulation  4   h =  3 
+Step  31  of  500  from simulation  4   h =  3 
+Step  32  of  500  from simulation  4   h =  3 
+Step  33  of  500  from simulation  4   h =  3 
+Step  34  of  500  from simulation  4   h =  3 
+Step  35  of  500  from simulation  4   h =  3 
+Step  36  of  500  from simulation  4   h =  3 
+Step  37  of  500  from simulation  4   h =  3 
+Step  38  of  500  from simulation  4   h =  3 
+Step  39  of  500  from simulation  4   h =  3 
+Step  40  of  500  from simulation  4   h =  3 
+Step  41  of  500  from simulation  4   h =  3 
+Step  42  of  500  from simulation  4   h =  3 
+Step  43  of  500  from simulation  4   h =  3 
+Step  44  of  500  from simulation  4   h =  3 
+Step  45  of  500  from simulation  4   h =  3 
+Step  46  of  500  from simulation  4   h =  3 
+Step  47  of  500  from simulation  4   h =  3 
+Step  48  of  500  from simulation  4   h =  3 
+Step  49  of  500  from simulation  4   h =  3 
+Step  50  of  500  from simulation  4   h =  3 
+Step  1  of  500  from simulation  1   h =  4 
+Step  2  of  500  from simulation  1   h =  4 
+Step  3  of  500  from simulation  1   h =  4 
+Step  Step  5  of  500  from simulation  1 S ep h = 6  
+f  500  from simulation  1   h =  4 
+Step  7  of  500  from simulation  1   h =  4 
+ of  500  from simulation  1   h =  4 
+Step  8  of  500  from simulation  1   h =  4 
+Step  9  of  500  from simulation  1   h =  4 
+Step  10  of  500  from simulation  1   h =  4 
+Step  11  of  500  from simulation  1   h =  4 
+Step  12  of  500  from simulation  1   h =  4 
+Step  13  of  500  from simulation  1   h =  4 
+Step  14  of  500  from simulation  1   h =  4 
+Step  15  of  500  from simulation  1   h =  4 
+Step  16  of  500  from simulation  1   h =  4 
+Step  17  of  500  from simulation  1   h =  4 
+Step  18  of  500  from simulation  1   h =  4 
+Step  19  of  500  from simulation  1   h =  4 
+Step  20  of  500  from simulation  1   h =  4 
+Step  21  of  500  from simulation  1   h =  4 
+Step  22  of  500  from simulation  1   h =  4 
+Step  23  of  500  from simulation  1   h =  4 
+Step  24  of  500  from simulation  1   h =  4 
+Step  25  of  500  from simulation  1   h =  4 
+Step  26  of  500  from simulation  1   h =  4 
+Step  27  of  500  from simulation  1   h =  4 
+Step  28  of  500  from simulation  1   h =  4 
+Step  29  of  500  from simulation  1   h =  4 
+Step  30  of  500  from simulation  1   h =  4 
+Step  31  of  500  from simulation  1   h =  4 
+Step  32  of  500  from simulation  1   h =  4 
+Step  33  of  500  from simulation  1   h =  4 
+Step  34  of  500  from simulation  1   h =  4 
+Step  35  of  500  from simulation  1   h =  4 
+Step  36  of  500  from simulation  1   h =  4 
+Step  37  of  500  from simulation  1   h =  4 
+Step  38  of  500  from simulation  1   h =  4 
+Step  39  of  500  from simulation  1   h =  4 
+Step  40  of  500  from simulation  1   h =  4 
+Step  41  of  500  from simulation  1   h =  4 
+Step  42  of  500  from simulation  1   h =  4 
+Step  43  of  500  from simulation  1   h =  4 
+Step  44  of  500  from simulation  1   h =  4 
+Step  45  of  500  from simulation  1   h =  4 
+Step  46  of  500  from simulation  1   h =  4 
+Step  47  of  500  from simulation  1   h =  4 
+Step  48  of  500  from simulation  1   h =  4 
+Step  49  of  500  from simulation  1   h =  4 
+Step  50  of  500  from simulation  1   h =  4 
+Step  1  of  500  from simulation  2   h =  4 
+Step  2  of  500  from simulation  2   h =  4 
+Step  3  of  500  from simulation  2   h =  4 
+Step  4  of  500  from simulation  2   h =  4 
+Step  5  of  500  from simulation  2   h =  4 
+Step  6  of  500  from simulation  2   h =  4 
+Step  7  of  500  from simulation  2   h =  4 
+Step  8  of  500  from simulation  2   h =  4 
+Step  9  of  500  from simulation  2   h =  4 
+Step  10  of  500  from simulation  2   h =  4 
+Step  11  of  500  from simulation  2   h =  4 
+Step  12  of  500  from simulation  2   h =  4 
+Step  13  of  500  from simulation  2   h =  4 
+Step  14  of  500  from simulation  2   h =  4 
+Step  15  of  500  from simulation  2   h =  4 
+Step  16  of  500  from simulation  2   h =  4 
+Step  17  of  500  from simulation  2   h =  4 
+Step  18  of  500  from simulation  2   h =  4 
+Step  19  of  500  from simulation  2   h =  4 
+Step  20  of  500  from simulation  2   h =  4 
+Step  21  of  500  from simulation  2   h =  4 
+Step  22  of  500  from simulation  2   h =  4 
+Step  23  of  500  from simulation  2   h =  4 
+Step  24  of  500  from simulation  2   h =  4 
+Step  25  of  500  from simulation  2   h =  4 
+Step  26  of  500  from simulation  2   h =  4 
+Step  27  of  500  from simulation  2   h =  4 
+Step  28  of  500  from simulation  2   h =  4 
+Step  29  of  500  from simulation  2   h =  4 
+Step  30  of  500  from simulation  2   h =  4 
+Step  31  of  500  from simulation  2   h =  4 
+Step  32  of  500  from simulation  2   h =  4 
+Step  33  of  500  from simulation  2   h =  4 
+Step  34  of  500  from simulation  2   h =  4 
+Step  35  of  500  from simulation  2   h =  4 
+Step  36  of  500  from simulation  2   h =  4 
+Step  37  of  500  from simulation  2   h =  4 
+Step  38  of  500  from simulation  2   h =  4 
+Step  39  of  500  from simulation  2   h =  4 
+Step  40  of  500  from simulation  2   h =  4 
+Step  41  of  500  from simulation  2   h =  4 
+Step  42  of  500  from simulation  2   h =  4 
+Step  43  of  500  from simulation  2   h =  4 
+Step  44  of  500  from simulation  2   h =  4 
+Step  45  of  500  from simulation  2   h =  4 
+Step  46  of  500  from simulation  2   h =  4 
+Step  47  of  500  from simulation  2   h =  4 
+Step  48  of  500  from simulation  2   h =  4 
+Step  49  of  500  from simulation  2   h =  4 
+Step  50  of  500  from simulation  2   h =  4 
+Step  1  of  500  from simulation  3   h =  4 
+Step  2  of  500  from simulation  3   h =  4 
+Step  3  of  500  from simulation  3   h =  4 
+Step  4  of  500  from simulation  3   h =  4 
+Step  5  of  500  from simulation  3   h =  4 
+Step  6  of  500  from simulation  3   h =  4 
+Step  7  of  500  from simulation  3   h =  4 
+Step  8  of  500  from simulation  3   h =  4 
+Step  9  of  500  from simulation  3   h =  4 
+Step  10  of  500  from simulation  3   h =  4 
+Step  11  of  500  from simulation  3   h =  4 
+Step  12  of  500  from simulation  3   h =  4 
+Step  13  of  500  from simulation  3   h =  4 
+Step  14  of  500  from simulation  3   h =  4 
+Step  15  of  500  from simulation  3   h =  4 
+Step  16  of  500  from simulation  3   h =  4 
+Step  17  of  500  from simulation  3   h =  4 
+Step  18  of  500  from simulation  3   h =  4 
+Step  19  of  500  from simulation  3   h =  4 
+Step  20  of  500  from simulation  3   h =  4 
+Step  21  of  500  from simulation  3   h =  4 
+Step  22  of  500  from simulation  3   h =  4 
+Step  23  of  500  from simulation  3   h =  4 
+Step  24  of  500  from simulation  3   h =  4 
+Step  25  of  500  from simulation  3   h =  4 
+Step  26  of  500  from simulation  3   h =  4 
+Step  27  of  500  from simulation  3   h =  4 
+Step  28  of  500  from simulation  3   h =  4 
+Step  29  of  500  from simulation  3   h =  4 
+Step  30  of  500  from simulation  3   h =  4 
+Step  31  of  500  from simulation  3   h =  4 
+Step  32  of  500  from simulation  3   h =  4 
+Step  33  of  500  from simulation  3   h =  4 
+Step  34  of  500  from simulation  3   h =  4 
+Step  35  of  500  from simulation  3   h =  4 
+Step  36  of  500  from simulation  3   h =  4 
+Step  37  of  500  from simulation  3   h =  4 
+Step  38  of  500  from simulation  3   h =  4 
+Step  39  of  500  from simulation  3   h =  4 
+Step  40  of  500  from simulation  3   h =  4 
+Step  41  of  500  from simulation  3   h =  4 
+Step  42  of  500  from simulation  3   h =  4 
+Step  43  of  500  from simulation  3   h =  4 
+Step  44  of  500  from simulation  3   h =  4 
+Step  45  of  500  from simulation  3   h =  4 
+Step  46  of  500  from simulation  3   h =  4 
+Step  47  of  500  from simulation  3   h =  4 
+Step  48  of  500  from simulation  3   h =  4 
+Step  49  of  500  from simulation  3   h =  4 
+Step  50  of  500  from simulation  3   h =  4 
+Step  1  of  500  from simulation  4   h =  4 
+Step  2  of  500  from simulation  4   h =  4 
+Step  3  of  500  from simulation  4   h =  4 
+Step  4  of  500  from simulation  4   h =  4 
+Step  5  of  500  from simulation  4   h =  4 
+Step  6  of  500  from simulation  4   h =  4 
+Step  7  of  500  from simulation  4   h =  4 
+Step  8  of  500  from simulation  4   h =  4 
+Step  9  of  500  from simulation  4   h =  4 
+Step  10  of  500  from simulation  4   h =  4 
+Step  11  of  500  from simulation  4   h =  4 
+Step  12  of  500  from simulation  4   h =  4 
+Step  13  of  500  from simulation  4   h =  4 
+Step  14  of  500  from simulation  4   h =  4 
+Step  15  of  500  from simulation  4   h =  4 
+Step  16  of  500  from simulation  4   h =  4 
+Step  17  of  500  from simulation  4   h =  4 
+Step  18  of  500  from simulation  4   h =  4 
+Step  19  of  500  from simulation  4   h =  4 
+Step  20  of  500  from simulation  4   h =  4 
+Step  21  of  500  from simulation  4   h =  4 
+Step  22  of  500  from simulation  4   h =  4 
+Step  23  of  500  from simulation  4   h =  4 
+Step  24  of  500  from simulation  4   h =  4 
+Step  25  of  500  from simulation  4   h =  4 
+Step  26  of  500  from simulation  4   h =  4 
+Step  27  of  500  from simulation  4   h =  4 
+Step  28  of  500  from simulation  4   h =  4 
+Step  29  of  500  from simulation  4   h =  4 
+Step  30  of  500  from simulation  4   h =  4 
+Step  31  of  500  from simulation  4   h =  4 
+Step  32  of  500  from simulation  4   h =  4 
+Step  33  of  500  from simulation  4   h =  4 
+Step  34  of  500  from simulation  4   h =  4 
+Step  35  of  500  from simulation  4   h =  4 
+Step  36  of  500  from simulation  4   h =  4 
+Step  37  of  500  from simulation  4   h =  4 
+Step  38  of  500  from simulation  4   h =  4 
+Step  39  of  500  from simulation  4   h =  4 
+Step  40  of  500  from simulation  4   h =  4 
+Step  41  of  500  from simulation  4   h =  4 
+Step  42  of  500  from simulation  4   h =  4 
+Step  43  of  500  from simulation  4   h =  4 
+Step  44  of  500  from simulation  4   h =  4 
+Step  45  of  500  from simulation  4   h =  4 
+Step  46  of  500  from simulation  4   h =  4 
+Step  47  of  500  from simulation  4   h =  4 
+Step  48  of  500  from simulation  4   h =  4 
+Step  49  of  500  from simulation  4   h =  4 
+Step  50  of  500  from simulation  4   h =  4 
+Step Step S of 3Step 5 0   500m simulation   of    00m simulation  5 0om simulation   f  h = m simulation 5 tep   h =  simulation   1
+5 =  
+Step  570   fro of mulation   1 00
+ from simulation h = Step 5  
+  =  of  500
+  from simulation  1   h =  5 
+Step  9  of  500  from simulation  1   h =  5 
+Step  10  of  500  from simulation  1   h =  5 
+Step  11  of  500  from simulation  1   h =  5 
+Step  12  of  500  from simulation  1   h =  5 
+Step  13  of  500  from simulation  1   h =  5 
+Step  14  of  500  from simulation  1   h =  5 
+Step  15  of  500  from simulation  1   h =  5 
+Step  16  of  500  from simulation  1   h =  5 
+Step  17  of  500  from simulation  1   h =  5 
+Step  18  of  500  from simulation  1   h =  5 
+Step  19  of  500  from simulation  1   h =  5 
+Step  20  of  500  from simulation  1   h =  5 
+Step  21  of  500  from simulation  1   h =  5 
+Step  22  of  500  from simulation  1   h =  5 
+Step  23  of  500  from simulation  1   h =  5 
+Step  24  of  500  from simulation  1   h =  5 
+Step  25  of  500  from simulation  1   h =  5 
+Step  26  of  500  from simulation  1   h =  5 
+Step  27  of  500  from simulation  1   h =  5 
+Step  28  of  500  from simulation  1   h =  5 
+Step  29  of  500  from simulation  1   h =  5 
+Step  30  of  500  from simulation  1   h =  5 
+Step  31  of  500  from simulation  1   h =  5 
+Step  32  of  500  from simulation  1   h =  5 
+Step  33  of  500  from simulation  1   h =  5 
+Step  34  of  500  from simulation  1   h =  5 
+Step  35  of  500  from simulation  1   h =  5 
+Step  36  of  500  from simulation  1   h =  5 
+Step  37  of  500  from simulation  1   h =  5 
+Step  38  of  500  from simulation  1   h =  5 
+Step  39  of  500  from simulation  1   h =  5 
+Step  40  of  500  from simulation  1   h =  5 
+Step  41  of  500  from simulation  1   h =  5 
+Step  42  of  500  from simulation  1   h =  5 
+Step  43  of  500  from simulation  1   h =  5 
+Step  44  of  500  from simulation  1   h =  5 
+Step  45  of  500  from simulation  1   h =  5 
+Step  46  of  500  from simulation  1   h =  5 
+Step  47  of  500  from simulation  1   h =  5 
+Step  48  of  500  from simulation  1   h =  5 
+Step  49  of  500  from simulation  1   h =  5 
+Step  50  of  500  from simulation  1   h =  5 
+Step  1  of  500  from simulation  2   h =  5 
+Step  2  of  500  from simulation  2   h =  5 
+Step  3  of  500  from simulation  2   h =  5 
+Step  4  of  500  from simulation  2   h =  5 
+Step  5  of  500  from simulation  2   h =  5 
+Step  6  of  500  from simulation  2   h =  5 
+Step  7  of  500  from simulation  2   h =  5 
+Step  8  of  500  from simulation  2   h =  5 
+Step  9  of  500  from simulation  2   h =  5 
+Step  10  of  500  from simulation  2   h =  5 
+Step  11  of  500  from simulation  2   h =  5 
+Step  12  of  500  from simulation  2   h =  5 
+Step  13  of  500  from simulation  2   h =  5 
+Step  14  of  500  from simulation  2   h =  5 
+Step  15  of  500  from simulation  2   h =  5 
+Step  16  of  500  from simulation  2   h =  5 
+Step  17  of  500  from simulation  2   h =  5 
+Step  18  of  500  from simulation  2   h =  5 
+Step  19  of  500  from simulation  2   h =  5 
+Step  20  of  500  from simulation  2   h =  5 
+Step  21  of  500  from simulation  2   h =  5 
+Step  22  of  500  from simulation  2   h =  5 
+Step  23  of  500  from simulation  2   h =  5 
+Step  24  of  500  from simulation  2   h =  5 
+Step  25  of  500  from simulation  2   h =  5 
+Step  26  of  500  from simulation  2   h =  5 
+Step  27  of  500  from simulation  2   h =  5 
+Step  28  of  500  from simulation  2   h =  5 
+Step  29  of  500  from simulation  2   h =  5 
+Step  30  of  500  from simulation  2   h =  5 
+Step  31  of  500  from simulation  2   h =  5 
+Step  32  of  500  from simulation  2   h =  5 
+Step  33  of  500  from simulation  2   h =  5 
+Step  34  of  500  from simulation  2   h =  5 
+Step  35  of  500  from simulation  2   h =  5 
+Step  36  of  500  from simulation  2   h =  5 
+Step  37  of  500  from simulation  2   h =  5 
+Step  38  of  500  from simulation  2   h =  5 
+Step  39  of  500  from simulation  2   h =  5 
+Step  40  of  500  from simulation  2   h =  5 
+Step  41  of  500  from simulation  2   h =  5 
+Step  42  of  500  from simulation  2   h =  5 
+Step  43  of  500  from simulation  2   h =  5 
+Step  44  of  500  from simulation  2   h =  5 
+Step  45  of  500  from simulation  2   h =  5 
+Step  46  of  500  from simulation  2   h =  5 
+Step  47  of  500  from simulation  2   h =  5 
+Step  48  of  500  from simulation  2   h =  5 
+Step  49  of  500  from simulation  2   h =  5 
+Step  50  of  500  from simulation  2   h =  5 
+Step  1  of  500  from simulation  3   h =  5 
+Step  2  of  500  from simulation  3   h =  5 
+Step  3  of  500  from simulation  3   h =  5 
+Step  4  of  500  from simulation  3   h =  5 
+Step  5  of  500  from simulation  3   h =  5 
+Step  6  of  500  from simulation  3   h =  5 
+Step  7  of  500  from simulation  3   h =  5 
+Step  8  of  500  from simulation  3   h =  5 
+Step  9  of  500  from simulation  3   h =  5 
+Step  10  of  500  from simulation  3   h =  5 
+Step  11  of  500  from simulation  3   h =  5 
+Step  12  of  500  from simulation  3   h =  5 
+Step  13  of  500  from simulation  3   h =  5 
+Step  14  of  500  from simulation  3   h =  5 
+Step  15  of  500  from simulation  3   h =  5 
+Step  16  of  500  from simulation  3   h =  5 
+Step  17  of  500  from simulation  3   h =  5 
+Step  18  of  500  from simulation  3   h =  5 
+Step  19  of  500  from simulation  3   h =  5 
+Step  20  of  500  from simulation  3   h =  5 
+Step  21  of  500  from simulation  3   h =  5 
+Step  22  of  500  from simulation  3   h =  5 
+Step  23  of  500  from simulation  3   h =  5 
+Step  24  of  500  from simulation  3   h =  5 
+Step  25  of  500  from simulation  3   h =  5 
+Step  26  of  500  from simulation  3   h =  5 
+Step  27  of  500  from simulation  3   h =  5 
+Step  28  of  500  from simulation  3   h =  5 
+Step  29  of  500  from simulation  3   h =  5 
+Step  30  of  500  from simulation  3   h =  5 
+Step  31  of  500  from simulation  3   h =  5 
+Step  32  of  500  from simulation  3   h =  5 
+Step  33  of  500  from simulation  3   h =  5 
+Step  34  of  500  from simulation  3   h =  5 
+Step  35  of  500  from simulation  3   h =  5 
+Step  36  of  500  from simulation  3   h =  5 
+Step  37  of  500  from simulation  3   h =  5 
+Step  38  of  500  from simulation  3   h =  5 
+Step  39  of  500  from simulation  3   h =  5 
+Step  40  of  500  from simulation  3   h =  5 
+Step  41  of  500  from simulation  3   h =  5 
+Step  42  of  500  from simulation  3   h =  5 
+Step  43  of  500  from simulation  3   h =  5 
+Step  44  of  500  from simulation  3   h =  5 
+Step  45  of  500  from simulation  3   h =  5 
+Step  46  of  500  from simulation  3   h =  5 
+Step  47  of  500  from simulation  3   h =  5 
+Step  48  of  500  from simulation  3   h =  5 
+Step  49  of  500  from simulation  3   h =  5 
+Step  50  of  500  from simulation  3   h =  5 
+Step  1  of  500  from simulation  4   h =  5 
+Step  2  of  500  from simulation  4   h =  5 
+Step  3  of  500  from simulation  4   h =  5 
+Step  4  of  500  from simulation  4   h =  5 
+Step  5  of  500  from simulation  4   h =  5 
+Step  6  of  500  from simulation  4   h =  5 
+Step  7  of  500  from simulation  4   h =  5 
+Step  8  of  500  from simulation  4   h =  5 
+Step  9  of  500  from simulation  4   h =  5 
+Step  10  of  500  from simulation  4   h =  5 
+Step  11  of  500  from simulation  4   h =  5 
+Step  12  of  500  from simulation  4   h =  5 
+Step  13  of  500  from simulation  4   h =  5 
+Step  14  of  500  from simulation  4   h =  5 
+Step  15  of  500  from simulation  4   h =  5 
+Step  16  of  500  from simulation  4   h =  5 
+Step  17  of  500  from simulation  4   h =  5 
+Step  18  of  500  from simulation  4   h =  5 
+Step  19  of  500  from simulation  4   h =  5 
+Step  20  of  500  from simulation  4   h =  5 
+Step  21  of  500  from simulation  4   h =  5 
+Step  22  of  500  from simulation  4   h =  5 
+Step  23  of  500  from simulation  4   h =  5 
+Step  24  of  500  from simulation  4   h =  5 
+Step  25  of  500  from simulation  4   h =  5 
+Step  26  of  500  from simulation  4   h =  5 
+Step  27  of  500  from simulation  4   h =  5 
+Step  28  of  500  from simulation  4   h =  5 
+Step  29  of  500  from simulation  4   h =  5 
+Step  30  of  500  from simulation  4   h =  5 
+Step  31  of  500  from simulation  4   h =  5 
+Step  32  of  500  from simulation  4   h =  5 
+Step  33  of  500  from simulation  4   h =  5 
+Step  34  of  500  from simulation  4   h =  5 
+Step  35  of  500  from simulation  4   h =  5 
+Step  36  of  500  from simulation  4   h =  5 
+Step  37  of  500  from simulation  4   h =  5 
+Step  38  of  500  from simulation  4   h =  5 
+Step  39  of  500  from simulation  4   h =  5 
+Step  40  of  500  from simulation  4   h =  5 
+Step  41  of  500  from simulation  4   h =  5 
+Step  42  of  500  from simulation  4   h =  5 
+Step  43  of  500  from simulation  4   h =  5 
+Step  44  of  500  from simulation  4   h =  5 
+Step  45  of  500  from simulation  4   h =  5 
+Step  46  of  500  from simulation  4   h =  5 
+Step  47  of  500  from simulation  4   h =  5 
+Step  48  of  500  from simulation  4   h =  5 
+Step  49  of  500  from simulation  4   h =  5 
+Step  50  of  500  from simulation  4   h =  5 
+Step  1  of  500  from simulation Step  2  of  Steh =  from simulation  1  
+ep  of   h500 Step  from simulation  
+05   of m simulation  1tep 500   rom simulation    of   =  h =6  
+rom simulation  tep  
+1  
+ of h = Step   8rom simulation  
+  f   h =  6from simulation  
+1   h =  6 
+Step  9  of  500  from simulation  1   h =  6 
+Step  10  of  500  from simulation  1   h =  6 
+Step  11  of  500  from simulation  1   h =  6 
+Step  12  of  500  from simulation  1   h =  6 
+Step  13  of  500  from simulation  1   h =  6 
+Step  14  of  500  from simulation  1   h =  6 
+Step  15  of  500  from simulation  1   h =  6 
+Step  16  of  500  from simulation  1   h =  6 
+Step  17  of  500  from simulation  1   h =  6 
+Step  18  of  500  from simulation  1   h =  6 
+Step  19  of  500  from simulation  1   h =  6 
+Step  20  of  500  from simulation  1   h =  6 
+Step  21  of  500  from simulation  1   h =  6 
+Step  22  of  500  from simulation  1   h =  6 
+Step  23  of  500  from simulation  1   h =  6 
+Step  24  of  500  from simulation  1   h =  6 
+Step  25  of  500  from simulation  1   h =  6 
+Step  26  of  500  from simulation  1   h =  6 
+Step  27  of  500  from simulation  1   h =  6 
+Step  28  of  500  from simulation  1   h =  6 
+Step  29  of  500  from simulation  1   h =  6 
+Step  30  of  500  from simulation  1   h =  6 
+Step  31  of  500  from simulation  1   h =  6 
+Step  32  of  500  from simulation  1   h =  6 
+Step  33  of  500  from simulation  1   h =  6 
+Step  34  of  500  from simulation  1   h =  6 
+Step  35  of  500  from simulation  1   h =  6 
+Step  36  of  500  from simulation  1   h =  6 
+Step  37  of  500  from simulation  1   h =  6 
+Step  38  of  500  from simulation  1   h =  6 
+Step  39  of  500  from simulation  1   h =  6 
+Step  40  of  500  from simulation  1   h =  6 
+Step  41  of  500  from simulation  1   h =  6 
+Step  42  of  500  from simulation  1   h =  6 
+Step  43  of  500  from simulation  1   h =  6 
+Step  44  of  500  from simulation  1   h =  6 
+Step  45  of  500  from simulation  1   h =  6 
+Step  46  of  500  from simulation  1   h =  6 
+Step  47  of  500  from simulation  1   h =  6 
+Step  48  of  500  from simulation  1   h =  6 
+Step  49  of  500  from simulation  1   h =  6 
+Step  50  of  500  from simulation  1   h =  6 
+Step  1  of  500  from simulation  2   h =  6 
+Step  2  of  500  from simulation  2   h =  6 
+Step  3  of  500  from simulation  2   h =  6 
+Step  4  of  500  from simulation  2   h =  6 
+Step  5  of  500  from simulation  2   h =  6 
+Step  6  of  500  from simulation  2   h =  6 
+Step  7  of  500  from simulation  2   h =  6 
+Step  8  of  500  from simulation  2   h =  6 
+Step  9  of  500  from simulation  2   h =  6 
+Step  10  of  500  from simulation  2   h =  6 
+Step  11  of  500  from simulation  2   h =  6 
+Step  12  of  500  from simulation  2   h =  6 
+Step  13  of  500  from simulation  2   h =  6 
+Step  14  of  500  from simulation  2   h =  6 
+Step  15  of  500  from simulation  2   h =  6 
+Step  16  of  500  from simulation  2   h =  6 
+Step  17  of  500  from simulation  2   h =  6 
+Step  18  of  500  from simulation  2   h =  6 
+Step  19  of  500  from simulation  2   h =  6 
+Step  20  of  500  from simulation  2   h =  6 
+Step  21  of  500  from simulation  2   h =  6 
+Step  22  of  500  from simulation  2   h =  6 
+Step  23  of  500  from simulation  2   h =  6 
+Step  24  of  500  from simulation  2   h =  6 
+Step  25  of  500  from simulation  2   h =  6 
+Step  26  of  500  from simulation  2   h =  6 
+Step  27  of  500  from simulation  2   h =  6 
+Step  28  of  500  from simulation  2   h =  6 
+Step  29  of  500  from simulation  2   h =  6 
+Step  30  of  500  from simulation  2   h =  6 
+Step  31  of  500  from simulation  2   h =  6 
+Step  32  of  500  from simulation  2   h =  6 
+Step  33  of  500  from simulation  2   h =  6 
+Step  34  of  500  from simulation  2   h =  6 
+Step  35  of  500  from simulation  2   h =  6 
+Step  36  of  500  from simulation  2   h =  6 
+Step  37  of  500  from simulation  2   h =  6 
+Step  38  of  500  from simulation  2   h =  6 
+Step  39  of  500  from simulation  2   h =  6 
+Step  40  of  500  from simulation  2   h =  6 
+Step  41  of  500  from simulation  2   h =  6 
+Step  42  of  500  from simulation  2   h =  6 
+Step  43  of  500  from simulation  2   h =  6 
+Step  44  of  500  from simulation  2   h =  6 
+Step  45  of  500  from simulation  2   h =  6 
+Step  46  of  500  from simulation  2   h =  6 
+Step  47  of  500  from simulation  2   h =  6 
+Step  48  of  500  from simulation  2   h =  6 
+Step  49  of  500  from simulation  2   h =  6 
+Step  50  of  500  from simulation  2   h =  6 
+Step  1  of  500  from simulation  3   h =  6 
+Step  2  of  500  from simulation  3   h =  6 
+Step  3  of  500  from simulation  3   h =  6 
+Step  4  of  500  from simulation  3   h =  6 
+Step  5  of  500  from simulation  3   h =  6 
+Step  6  of  500  from simulation  3   h =  6 
+Step  7  of  500  from simulation  3   h =  6 
+Step  8  of  500  from simulation  3   h =  6 
+Step  9  of  500  from simulation  3   h =  6 
+Step  10  of  500  from simulation  3   h =  6 
+Step  11  of  500  from simulation  3   h =  6 
+Step  12  of  500  from simulation  3   h =  6 
+Step  13  of  500  from simulation  3   h =  6 
+Step  14  of  500  from simulation  3   h =  6 
+Step  15  of  500  from simulation  3   h =  6 
+Step  16  of  500  from simulation  3   h =  6 
+Step  17  of  500  from simulation  3   h =  6 
+Step  18  of  500  from simulation  3   h =  6 
+Step  19  of  500  from simulation  3   h =  6 
+Step  20  of  500  from simulation  3   h =  6 
+Step  21  of  500  from simulation  3   h =  6 
+Step  22  of  500  from simulation  3   h =  6 
+Step  23  of  500  from simulation  3   h =  6 
+Step  24  of  500  from simulation  3   h =  6 
+Step  25  of  500  from simulation  3   h =  6 
+Step  26  of  500  from simulation  3   h =  6 
+Step  27  of  500  from simulation  3   h =  6 
+Step  28  of  500  from simulation  3   h =  6 
+Step  29  of  500  from simulation  3   h =  6 
+Step  30  of  500  from simulation  3   h =  6 
+Step  31  of  500  from simulation  3   h =  6 
+Step  32  of  500  from simulation  3   h =  6 
+Step  33  of  500  from simulation  3   h =  6 
+Step  34  of  500  from simulation  3   h =  6 
+Step  35  of  500  from simulation  3   h =  6 
+Step  36  of  500  from simulation  3   h =  6 
+Step  37  of  500  from simulation  3   h =  6 
+Step  38  of  500  from simulation  3   h =  6 
+Step  39  of  500  from simulation  3   h =  6 
+Step  40  of  500  from simulation  3   h =  6 
+Step  41  of  500  from simulation  3   h =  6 
+Step  42  of  500  from simulation  3   h =  6 
+Step  43  of  500  from simulation  3   h =  6 
+Step  44  of  500  from simulation  3   h =  6 
+Step  45  of  500  from simulation  3   h =  6 
+Step  46  of  500  from simulation  3   h =  6 
+Step  47  of  500  from simulation  3   h =  6 
+Step  48  of  500  from simulation  3   h =  6 
+Step  49  of  500  from simulation  3   h =  6 
+Step  50  of  500  from simulation  3   h =  6 
+Step  1  of  500  from simulation  4   h =  6 
+Step  2  of  500  from simulation  4   h =  6 
+Step  3  of  500  from simulation  4   h =  6 
+Step  4  of  500  from simulation  4   h =  6 
+Step  5  of  500  from simulation  4   h =  6 
+Step  6  of  500  from simulation  4   h =  6 
+Step  7  of  500  from simulation  4   h =  6 
+Step  8  of  500  from simulation  4   h =  6 
+Step  9  of  500  from simulation  4   h =  6 
+Step  10  of  500  from simulation  4   h =  6 
+Step  11  of  500  from simulation  4   h =  6 
+Step  12  of  500  from simulation  4   h =  6 
+Step  13  of  500  from simulation  4   h =  6 
+Step  14  of  500  from simulation  4   h =  6 
+Step  15  of  500  from simulation  4   h =  6 
+Step  16  of  500  from simulation  4   h =  6 
+Step  17  of  500  from simulation  4   h =  6 
+Step  18  of  500  from simulation  4   h =  6 
+Step  19  of  500  from simulation  4   h =  6 
+Step  20  of  500  from simulation  4   h =  6 
+Step  21  of  500  from simulation  4   h =  6 
+Step  22  of  500  from simulation  4   h =  6 
+Step  23  of  500  from simulation  4   h =  6 
+Step  24  of  500  from simulation  4   h =  6 
+Step  25  of  500  from simulation  4   h =  6 
+Step  26  of  500  from simulation  4   h =  6 
+Step  27  of  500  from simulation  4   h =  6 
+Step  28  of  500  from simulation  4   h =  6 
+Step  29  of  500  from simulation  4   h =  6 
+Step  30  of  500  from simulation  4   h =  6 
+Step  31  of  500  from simulation  4   h =  6 
+Step  32  of  500  from simulation  4   h =  6 
+Step  33  of  500  from simulation  4   h =  6 
+Step  34  of  500  from simulation  4   h =  6 
+Step  35  of  500  from simulation  4   h =  6 
+Step  36  of  500  from simulation  4   h =  6 
+Step  37  of  500  from simulation  4   h =  6 
+Step  38  of  500  from simulation  4   h =  6 
+Step  39  of  500  from simulation  4   h =  6 
+Step  40  of  500  from simulation  4   h =  6 
+Step  41  of  500  from simulation  4   h =  6 
+Step  42  of  500  from simulation  4   h =  6 
+Step  43  of  500  from simulation  4   h =  6 
+Step  44  of  500  from simulation  4   h =  6 
+Step  45  of  500  from simulation  4   h =  6 
+Step  46  of  500  from simulation  4   h =  6 
+Step  47  of  500  from simulation  4   h =  6 
+Step  48  of  500  from simulation  4   h =  6 
+Step  49  of  500  from simulation  4   h =  6 
+Step  50  of  500  from simulation  4   h =  6 
+Step  1Step Step 500p 2 ep    rom simulation  of  of S500 5 0  from simulation  Step  simulation  h =  simulation   1f 1 =   7
+0 
+frh = imulation   =  5005 0 
+om simulation  from simulation  h = 11   h =   h =   
+ 
+Step  9  of  500  from simulation  1   h =  7 
+Step  10  of  500  from simulation  1   h =  7 
+Step  11  of  500  from simulation  1   h =  7 
+Step  12  of  500  from simulation  1   h =  7 
+Step  13  of  500  from simulation  1   h =  7 
+Step  14  of  500  from simulation  1   h =  7 
+Step  15  of  500  from simulation  1   h =  7 
+Step  16  of  500  from simulation  1   h =  7 
+Step  17  of  500  from simulation  1   h =  7 
+Step  18  of  500  from simulation  1   h =  7 
+Step  19  of  500  from simulation  1   h =  7 
+Step  20  of  500  from simulation  1   h =  7 
+Step  21  of  500  from simulation  1   h =  7 
+Step  22  of  500  from simulation  1   h =  7 
+Step  23  of  500  from simulation  1   h =  7 
+Step  24  of  500  from simulation  1   h =  7 
+Step  25  of  500  from simulation  1   h =  7 
+Step  26  of  500  from simulation  1   h =  7 
+Step  27  of  500  from simulation  1   h =  7 
+Step  28  of  500  from simulation  1   h =  7 
+Step  29  of  500  from simulation  1   h =  7 
+Step  30  of  500  from simulation  1   h =  7 
+Step  31  of  500  from simulation  1   h =  7 
+Step  32  of  500  from simulation  1   h =  7 
+Step  33  of  500  from simulation  1   h =  7 
+Step  34  of  500  from simulation  1   h =  7 
+Step  35  of  500  from simulation  1   h =  7 
+Step  36  of  500  from simulation  1   h =  7 
+Step  37  of  500  from simulation  1   h =  7 
+Step  38  of  500  from simulation  1   h =  7 
+Step  39  of  500  from simulation  1   h =  7 
+Step  40  of  500  from simulation  1   h =  7 
+Step  41  of  500  from simulation  1   h =  7 
+Step  42  of  500  from simulation  1   h =  7 
+Step  43  of  500  from simulation  1   h =  7 
+Step  44  of  500  from simulation  1   h =  7 
+Step  45  of  500  from simulation  1   h =  7 
+Step  46  of  500  from simulation  1   h =  7 
+Step  47  of  500  from simulation  1   h =  7 
+Step  48  of  500  from simulation  1   h =  7 
+Step  49  of  500  from simulation  1   h =  7 
+Step  50  of  500  from simulation  1   h =  7 
+Step  1  of  500  from simulation  2   h =  7 
+Step  2  of  500  from simulation  2   h =  7 
+Step  3  of  500  from simulation  2   h =  7 
+Step  4  of  500  from simulation  2   h =  7 
+Step  5  of  500  from simulation  2   h =  7 
+Step  6  of  500  from simulation  2   h =  7 
+Step  7  of  500  from simulation  2   h =  7 
+Step  8  of  500  from simulation  2   h =  7 
+Step  9  of  500  from simulation  2   h =  7 
+Step  10  of  500  from simulation  2   h =  7 
+Step  11  of  500  from simulation  2   h =  7 
+Step  12  of  500  from simulation  2   h =  7 
+Step  13  of  500  from simulation  2   h =  7 
+Step  14  of  500  from simulation  2   h =  7 
+Step  15  of  500  from simulation  2   h =  7 
+Step  16  of  500  from simulation  2   h =  7 
+Step  17  of  500  from simulation  2   h =  7 
+Step  18  of  500  from simulation  2   h =  7 
+Step  19  of  500  from simulation  2   h =  7 
+Step  20  of  500  from simulation  2   h =  7 
+Step  21  of  500  from simulation  2   h =  7 
+Step  22  of  500  from simulation  2   h =  7 
+Step  23  of  500  from simulation  2   h =  7 
+Step  24  of  500  from simulation  2   h =  7 
+Step  25  of  500  from simulation  2   h =  7 
+Step  26  of  500  from simulation  2   h =  7 
+Step  27  of  500  from simulation  2   h =  7 
+Step  28  of  500  from simulation  2   h =  7 
+Step  29  of  500  from simulation  2   h =  7 
+Step  30  of  500  from simulation  2   h =  7 
+Step  31  of  500  from simulation  2   h =  7 
+Step  32  of  500  from simulation  2   h =  7 
+Step  33  of  500  from simulation  2   h =  7 
+Step  34  of  500  from simulation  2   h =  7 
+Step  35  of  500  from simulation  2   h =  7 
+Step  36  of  500  from simulation  2   h =  7 
+Step  37  of  500  from simulation  2   h =  7 
+Step  38  of  500  from simulation  2   h =  7 
+Step  39  of  500  from simulation  2   h =  7 
+Step  40  of  500  from simulation  2   h =  7 
+Step  41  of  500  from simulation  2   h =  7 
+Step  42  of  500  from simulation  2   h =  7 
+Step  43  of  500  from simulation  2   h =  7 
+Step  44  of  500  from simulation  2   h =  7 
+Step  45  of  500  from simulation  2   h =  7 
+Step  46  of  500  from simulation  2   h =  7 
+Step  47  of  500  from simulation  2   h =  7 
+Step  48  of  500  from simulation  2   h =  7 
+Step  49  of  500  from simulation  2   h =  7 
+Step  50  of  500  from simulation  2   h =  7 
+Step  1  of  500  from simulation  3   h =  7 
+Step  2  of  500  from simulation  3   h =  7 
+Step  3  of  500  from simulation  3   h =  7 
+Step  4  of  500  from simulation  3   h =  7 
+Step  5  of  500  from simulation  3   h =  7 
+Step  6  of  500  from simulation  3   h =  7 
+Step  7  of  500  from simulation  3   h =  7 
+Step  8  of  500  from simulation  3   h =  7 
+Step  9  of  500  from simulation  3   h =  7 
+Step  10  of  500  from simulation  3   h =  7 
+Step  11  of  500  from simulation  3   h =  7 
+Step  12  of  500  from simulation  3   h =  7 
+Step  13  of  500  from simulation  3   h =  7 
+Step  14  of  500  from simulation  3   h =  7 
+Step  15  of  500  from simulation  3   h =  7 
+Step  16  of  500  from simulation  3   h =  7 
+Step  17  of  500  from simulation  3   h =  7 
+Step  18  of  500  from simulation  3   h =  7 
+Step  19  of  500  from simulation  3   h =  7 
+Step  20  of  500  from simulation  3   h =  7 
+Step  21  of  500  from simulation  3   h =  7 
+Step  22  of  500  from simulation  3   h =  7 
+Step  23  of  500  from simulation  3   h =  7 
+Step  24  of  500  from simulation  3   h =  7 
+Step  25  of  500  from simulation  3   h =  7 
+Step  26  of  500  from simulation  3   h =  7 
+Step  27  of  500  from simulation  3   h =  7 
+Step  28  of  500  from simulation  3   h =  7 
+Step  29  of  500  from simulation  3   h =  7 
+Step  30  of  500  from simulation  3   h =  7 
+Step  31  of  500  from simulation  3   h =  7 
+Step  32  of  500  from simulation  3   h =  7 
+Step  33  of  500  from simulation  3   h =  7 
+Step  34  of  500  from simulation  3   h =  7 
+Step  35  of  500  from simulation  3   h =  7 
+Step  36  of  500  from simulation  3   h =  7 
+Step  37  of  500  from simulation  3   h =  7 
+Step  38  of  500  from simulation  3   h =  7 
+Step  39  of  500  from simulation  3   h =  7 
+Step  40  of  500  from simulation  3   h =  7 
+Step  41  of  500  from simulation  3   h =  7 
+Step  42  of  500  from simulation  3   h =  7 
+Step  43  of  500  from simulation  3   h =  7 
+Step  44  of  500  from simulation  3   h =  7 
+Step  45  of  500  from simulation  3   h =  7 
+Step  46  of  500  from simulation  3   h =  7 
+Step  47  of  500  from simulation  3   h =  7 
+Step  48  of  500  from simulation  3   h =  7 
+Step  49  of  500  from simulation  3   h =  7 
+Step  50  of  500  from simulation  3   h =  7 
+Step  1  of  500  from simulation  4   h =  7 
+Step  2  of  500  from simulation  4   h =  7 
+Step  3  of  500  from simulation  4   h =  7 
+Step  4  of  500  from simulation  4   h =  7 
+Step  5  of  500  from simulation  4   h =  7 
+Step  6  of  500  from simulation  4   h =  7 
+Step  7  of  500  from simulation  4   h =  7 
+Step  8  of  500  from simulation  4   h =  7 
+Step  9  of  500  from simulation  4   h =  7 
+Step  10  of  500  from simulation  4   h =  7 
+Step  11  of  500  from simulation  4   h =  7 
+Step  12  of  500  from simulation  4   h =  7 
+Step  13  of  500  from simulation  4   h =  7 
+Step  14  of  500  from simulation  4   h =  7 
+Step  15  of  500  from simulation  4   h =  7 
+Step  16  of  500  from simulation  4   h =  7 
+Step  17  of  500  from simulation  4   h =  7 
+Step  18  of  500  from simulation  4   h =  7 
+Step  19  of  500  from simulation  4   h =  7 
+Step  20  of  500  from simulation  4   h =  7 
+Step  21  of  500  from simulation  4   h =  7 
+Step  22  of  500  from simulation  4   h =  7 
+Step  23  of  500  from simulation  4   h =  7 
+Step  24  of  500  from simulation  4   h =  7 
+Step  25  of  500  from simulation  4   h =  7 
+Step  26  of  500  from simulation  4   h =  7 
+Step  27  of  500  from simulation  4   h =  7 
+Step  28  of  500  from simulation  4   h =  7 
+Step  29  of  500  from simulation  4   h =  7 
+Step  30  of  500  from simulation  4   h =  7 
+Step  31  of  500  from simulation  4   h =  7 
+Step  32  of  500  from simulation  4   h =  7 
+Step  33  of  500  from simulation  4   h =  7 
+Step  34  of  500  from simulation  4   h =  7 
+Step  35  of  500  from simulation  4   h =  7 
+Step  36  of  500  from simulation  4   h =  7 
+Step  37  of  500  from simulation  4   h =  7 
+Step  38  of  500  from simulation  4   h =  7 
+Step  39  of  500  from simulation  4   h =  7 
+Step  40  of  500  from simulation  4   h =  7 
+Step  41  of  500  from simulation  4   h =  7 
+Step  42  of  500  from simulation  4   h =  7 
+Step  43  of  500  from simulation  4   h =  7 
+Step  44  of  500  from simulation  4   h =  7 
+Step  45  of  500  from simulation  4   h =  7 
+Step  46  of  500  from simulation  4   h =  7 
+Step  47  of  500  from simulation  4   h =  7 
+Step  48  of  500  from simulation  4   h =  7 
+Step  49  of  500  from simulation  4   h =  7 
+Step  50  of  500  from simulation  4   h =  7 
+Step  1  of  500 Step  simulation  1 2 Step  tep  tep 4Step  simulation 3 1of    00  Step  from simulation tep  8    o  h = m simulation  500  =  from simulation   
+om simulation  1 =  h   
+1 =    
+
+ h =  8 
+Step  9  of  500  from simulation  1   h =  8 
+Step  10  of  500  from simulation  1   h =  8 
+Step  11  of  500  from simulation  1   h =  8 
+Step  12  of  500  from simulation  1   h =  8 
+Step  13  of  500  from simulation  1   h =  8 
+Step  14  of  500  from simulation  1   h =  8 
+Step  15  of  500  from simulation  1   h =  8 
+Step  16  of  500  from simulation  1   h =  8 
+Step  17  of  500  from simulation  1   h =  8 
+Step  18  of  500  from simulation  1   h =  8 
+Step  19  of  500  from simulation  1   h =  8 
+Step  20  of  500  from simulation  1   h =  8 
+Step  21  of  500  from simulation  1   h =  8 
+Step  22  of  500  from simulation  1   h =  8 
+Step  23  of  500  from simulation  1   h =  8 
+Step  24  of  500  from simulation  1   h =  8 
+Step  25  of  500  from simulation  1   h =  8 
+Step  26  of  500  from simulation  1   h =  8 
+Step  27  of  500  from simulation  1   h =  8 
+Step  28  of  500  from simulation  1   h =  8 
+Step  29  of  500  from simulation  1   h =  8 
+Step  30  of  500  from simulation  1   h =  8 
+Step  31  of  500  from simulation  1   h =  8 
+Step  32  of  500  from simulation  1   h =  8 
+Step  33  of  500  from simulation  1   h =  8 
+Step  34  of  500  from simulation  1   h =  8 
+Step  35  of  500  from simulation  1   h =  8 
+Step  36  of  500  from simulation  1   h =  8 
+Step  37  of  500  from simulation  1   h =  8 
+Step  38  of  500  from simulation  1   h =  8 
+Step  39  of  500  from simulation  1   h =  8 
+Step  40  of  500  from simulation  1   h =  8 
+Step  41  of  500  from simulation  1   h =  8 
+Step  42  of  500  from simulation  1   h =  8 
+Step  43  of  500  from simulation  1   h =  8 
+Step  44  of  500  from simulation  1   h =  8 
+Step  45  of  500  from simulation  1   h =  8 
+Step  46  of  500  from simulation  1   h =  8 
+Step  47  of  500  from simulation  1   h =  8 
+Step  48  of  500  from simulation  1   h =  8 
+Step  49  of  500  from simulation  1   h =  8 
+Step  50  of  500  from simulation  1   h =  8 
+Step  1  of  500  from simulation  2   h =  8 
+Step  2  of  500  from simulation  2   h =  8 
+Step  3  of  500  from simulation  2   h =  8 
+Step  4  of  500  from simulation  2   h =  8 
+Step  5  of  500  from simulation  2   h =  8 
+Step  6  of  500  from simulation  2   h =  8 
+Step  7  of  500  from simulation  2   h =  8 
+Step  8  of  500  from simulation  2   h =  8 
+Step  9  of  500  from simulation  2   h =  8 
+Step  10  of  500  from simulation  2   h =  8 
+Step  11  of  500  from simulation  2   h =  8 
+Step  12  of  500  from simulation  2   h =  8 
+Step  13  of  500  from simulation  2   h =  8 
+Step  14  of  500  from simulation  2   h =  8 
+Step  15  of  500  from simulation  2   h =  8 
+Step  16  of  500  from simulation  2   h =  8 
+Step  17  of  500  from simulation  2   h =  8 
+Step  18  of  500  from simulation  2   h =  8 
+Step  19  of  500  from simulation  2   h =  8 
+Step  20  of  500  from simulation  2   h =  8 
+Step  21  of  500  from simulation  2   h =  8 
+Step  22  of  500  from simulation  2   h =  8 
+Step  23  of  500  from simulation  2   h =  8 
+Step  24  of  500  from simulation  2   h =  8 
+Step  25  of  500  from simulation  2   h =  8 
+Step  26  of  500  from simulation  2   h =  8 
+Step  27  of  500  from simulation  2   h =  8 
+Step  28  of  500  from simulation  2   h =  8 
+Step  29  of  500  from simulation  2   h =  8 
+Step  30  of  500  from simulation  2   h =  8 
+Step  31  of  500  from simulation  2   h =  8 
+Step  32  of  500  from simulation  2   h =  8 
+Step  33  of  500  from simulation  2   h =  8 
+Step  34  of  500  from simulation  2   h =  8 
+Step  35  of  500  from simulation  2   h =  8 
+Step  36  of  500  from simulation  2   h =  8 
+Step  37  of  500  from simulation  2   h =  8 
+Step  38  of  500  from simulation  2   h =  8 
+Step  39  of  500  from simulation  2   h =  8 
+Step  40  of  500  from simulation  2   h =  8 
+Step  41  of  500  from simulation  2   h =  8 
+Step  42  of  500  from simulation  2   h =  8 
+Step  43  of  500  from simulation  2   h =  8 
+Step  44  of  500  from simulation  2   h =  8 
+Step  45  of  500  from simulation  2   h =  8 
+Step  46  of  500  from simulation  2   h =  8 
+Step  47  of  500  from simulation  2   h =  8 
+Step  48  of  500  from simulation  2   h =  8 
+Step  49  of  500  from simulation  2   h =  8 
+Step  50  of  500  from simulation  2   h =  8 
+Step  1  of  500  from simulation  3   h =  8 
+Step  2  of  500  from simulation  3   h =  8 
+Step  3  of  500  from simulation  3   h =  8 
+Step  4  of  500  from simulation  3   h =  8 
+Step  5  of  500  from simulation  3   h =  8 
+Step  6  of  500  from simulation  3   h =  8 
+Step  7  of  500  from simulation  3   h =  8 
+Step  8  of  500  from simulation  3   h =  8 
+Step  9  of  500  from simulation  3   h =  8 
+Step  10  of  500  from simulation  3   h =  8 
+Step  11  of  500  from simulation  3   h =  8 
+Step  12  of  500  from simulation  3   h =  8 
+Step  13  of  500  from simulation  3   h =  8 
+Step  14  of  500  from simulation  3   h =  8 
+Step  15  of  500  from simulation  3   h =  8 
+Step  16  of  500  from simulation  3   h =  8 
+Step  17  of  500  from simulation  3   h =  8 
+Step  18  of  500  from simulation  3   h =  8 
+Step  19  of  500  from simulation  3   h =  8 
+Step  20  of  500  from simulation  3   h =  8 
+Step  21  of  500  from simulation  3   h =  8 
+Step  22  of  500  from simulation  3   h =  8 
+Step  23  of  500  from simulation  3   h =  8 
+Step  24  of  500  from simulation  3   h =  8 
+Step  25  of  500  from simulation  3   h =  8 
+Step  26  of  500  from simulation  3   h =  8 
+Step  27  of  500  from simulation  3   h =  8 
+Step  28  of  500  from simulation  3   h =  8 
+Step  29  of  500  from simulation  3   h =  8 
+Step  30  of  500  from simulation  3   h =  8 
+Step  31  of  500  from simulation  3   h =  8 
+Step  32  of  500  from simulation  3   h =  8 
+Step  33  of  500  from simulation  3   h =  8 
+Step  34  of  500  from simulation  3   h =  8 
+Step  35  of  500  from simulation  3   h =  8 
+Step  36  of  500  from simulation  3   h =  8 
+Step  37  of  500  from simulation  3   h =  8 
+Step  38  of  500  from simulation  3   h =  8 
+Step  39  of  500  from simulation  3   h =  8 
+Step  40  of  500  from simulation  3   h =  8 
+Step  41  of  500  from simulation  3   h =  8 
+Step  42  of  500  from simulation  3   h =  8 
+Step  43  of  500  from simulation  3   h =  8 
+Step  44  of  500  from simulation  3   h =  8 
+Step  45  of  500  from simulation  3   h =  8 
+Step  46  of  500  from simulation  3   h =  8 
+Step  47  of  500  from simulation  3   h =  8 
+Step  48  of  500  from simulation  3   h =  8 
+Step  49  of  500  from simulation  3   h =  8 
+Step  50  of  500  from simulation  3   h =  8 
+Step  1  of  500  from simulation  4   h =  8 
+Step  2  of  500  from simulation  4   h =  8 
+Step  3  of  500  from simulation  4   h =  8 
+Step  4  of  500  from simulation  4   h =  8 
+Step  5  of  500  from simulation  4   h =  8 
+Step  6  of  500  from simulation  4   h =  8 
+Step  7  of  500  from simulation  4   h =  8 
+Step  8  of  500  from simulation  4   h =  8 
+Step  9  of  500  from simulation  4   h =  8 
+Step  10  of  500  from simulation  4   h =  8 
+Step  11  of  500  from simulation  4   h =  8 
+Step  12  of  500  from simulation  4   h =  8 
+Step  13  of  500  from simulation  4   h =  8 
+Step  14  of  500  from simulation  4   h =  8 
+Step  15  of  500  from simulation  4   h =  8 
+Step  16  of  500  from simulation  4   h =  8 
+Step  17  of  500  from simulation  4   h =  8 
+Step  18  of  500  from simulation  4   h =  8 
+Step  19  of  500  from simulation  4   h =  8 
+Step  20  of  500  from simulation  4   h =  8 
+Step  21  of  500  from simulation  4   h =  8 
+Step  22  of  500  from simulation  4   h =  8 
+Step  23  of  500  from simulation  4   h =  8 
+Step  24  of  500  from simulation  4   h =  8 
+Step  25  of  500  from simulation  4   h =  8 
+Step  26  of  500  from simulation  4   h =  8 
+Step  27  of  500  from simulation  4   h =  8 
+Step  28  of  500  from simulation  4   h =  8 
+Step  29  of  500  from simulation  4   h =  8 
+Step  30  of  500  from simulation  4   h =  8 
+Step  31  of  500  from simulation  4   h =  8 
+Step  32  of  500  from simulation  4   h =  8 
+Step  33  of  500  from simulation  4   h =  8 
+Step  34  of  500  from simulation  4   h =  8 
+Step  35  of  500  from simulation  4   h =  8 
+Step  36  of  500  from simulation  4   h =  8 
+Step  37  of  500  from simulation  4   h =  8 
+Step  38  of  500  from simulation  4   h =  8 
+Step  39  of  500  from simulation  4   h =  8 
+Step  40  of  500  from simulation  4   h =  8 
+Step  41  of  500  from simulation  4   h =  8 
+Step  42  of  500  from simulation  4   h =  8 
+Step  43  of  500  from simulation  4   h =  8 
+Step  44  of  500  from simulation  4   h =  8 
+Step  45  of  500  from simulation  4   h =  8 
+Step  46  of  500  from simulation  4   h =  8 
+Step  47  of  500  from simulation  4   h =  8 
+Step  48  of  500  from simulation  4   h =  8 
+Step  49  of  500  from simulation  4   h =  8 
+Step  50  of  500  from simulation  4   h =  8 
+Step  1  of  500 Step  simulation  1  2  of   =  Ste9tep   rom simulation 4
+  of   h =  9from simulation  
+   h =    ep Ste6  from simulation  S of    of 5 0h =  of  rom simulation  5
+om simulation  8from simulation    of     =  500   
+ from simulation  
+
+   h =  9 
+Step  9  of  500  from simulation  1   h =  9 
+Step  10  of  500  from simulation  1   h =  9 
+Step  11  of  500  from simulation  1   h =  9 
+Step  12  of  500  from simulation  1   h =  9 
+Step  13  of  500  from simulation  1   h =  9 
+Step  14  of  500  from simulation  1   h =  9 
+Step  15  of  500  from simulation  1   h =  9 
+Step  16  of  500  from simulation  1   h =  9 
+Step  17  of  500  from simulation  1   h =  9 
+Step  18  of  500  from simulation  1   h =  9 
+Step  19  of  500  from simulation  1   h =  9 
+Step  20  of  500  from simulation  1   h =  9 
+Step  21  of  500  from simulation  1   h =  9 
+Step  22  of  500  from simulation  1   h =  9 
+Step  23  of  500  from simulation  1   h =  9 
+Step  24  of  500  from simulation  1   h =  9 
+Step  25  of  500  from simulation  1   h =  9 
+Step  26  of  500  from simulation  1   h =  9 
+Step  27  of  500  from simulation  1   h =  9 
+Step  28  of  500  from simulation  1   h =  9 
+Step  29  of  500  from simulation  1   h =  9 
+Step  30  of  500  from simulation  1   h =  9 
+Step  31  of  500  from simulation  1   h =  9 
+Step  32  of  500  from simulation  1   h =  9 
+Step  33  of  500  from simulation  1   h =  9 
+Step  34  of  500  from simulation  1   h =  9 
+Step  35  of  500  from simulation  1   h =  9 
+Step  36  of  500  from simulation  1   h =  9 
+Step  37  of  500  from simulation  1   h =  9 
+Step  38  of  500  from simulation  1   h =  9 
+Step  39  of  500  from simulation  1   h =  9 
+Step  40  of  500  from simulation  1   h =  9 
+Step  41  of  500  from simulation  1   h =  9 
+Step  42  of  500  from simulation  1   h =  9 
+Step  43  of  500  from simulation  1   h =  9 
+Step  44  of  500  from simulation  1   h =  9 
+Step  45  of  500  from simulation  1   h =  9 
+Step  46  of  500  from simulation  1   h =  9 
+Step  47  of  500  from simulation  1   h =  9 
+Step  48  of  500  from simulation  1   h =  9 
+Step  49  of  500  from simulation  1   h =  9 
+Step  50  of  500  from simulation  1   h =  9 
+Step  1  of  500  from simulation  2   h =  9 
+Step  2  of  500  from simulation  2   h =  9 
+Step  3  of  500  from simulation  2   h =  9 
+Step  4  of  500  from simulation  2   h =  9 
+Step  5  of  500  from simulation  2   h =  9 
+Step  6  of  500  from simulation  2   h =  9 
+Step  7  of  500  from simulation  2   h =  9 
+Step  8  of  500  from simulation  2   h =  9 
+Step  9  of  500  from simulation  2   h =  9 
+Step  10  of  500  from simulation  2   h =  9 
+Step  11  of  500  from simulation  2   h =  9 
+Step  12  of  500  from simulation  2   h =  9 
+Step  13  of  500  from simulation  2   h =  9 
+Step  14  of  500  from simulation  2   h =  9 
+Step  15  of  500  from simulation  2   h =  9 
+Step  16  of  500  from simulation  2   h =  9 
+Step  17  of  500  from simulation  2   h =  9 
+Step  18  of  500  from simulation  2   h =  9 
+Step  19  of  500  from simulation  2   h =  9 
+Step  20  of  500  from simulation  2   h =  9 
+Step  21  of  500  from simulation  2   h =  9 
+Step  22  of  500  from simulation  2   h =  9 
+Step  23  of  500  from simulation  2   h =  9 
+Step  24  of  500  from simulation  2   h =  9 
+Step  25  of  500  from simulation  2   h =  9 
+Step  26  of  500  from simulation  2   h =  9 
+Step  27  of  500  from simulation  2   h =  9 
+Step  28  of  500  from simulation  2   h =  9 
+Step  29  of  500  from simulation  2   h =  9 
+Step  30  of  500  from simulation  2   h =  9 
+Step  31  of  500  from simulation  2   h =  9 
+Step  32  of  500  from simulation  2   h =  9 
+Step  33  of  500  from simulation  2   h =  9 
+Step  34  of  500  from simulation  2   h =  9 
+Step  35  of  500  from simulation  2   h =  9 
+Step  36  of  500  from simulation  2   h =  9 
+Step  37  of  500  from simulation  2   h =  9 
+Step  38  of  500  from simulation  2   h =  9 
+Step  39  of  500  from simulation  2   h =  9 
+Step  40  of  500  from simulation  2   h =  9 
+Step  41  of  500  from simulation  2   h =  9 
+Step  42  of  500  from simulation  2   h =  9 
+Step  43  of  500  from simulation  2   h =  9 
+Step  44  of  500  from simulation  2   h =  9 
+Step  45  of  500  from simulation  2   h =  9 
+Step  46  of  500  from simulation  2   h =  9 
+Step  47  of  500  from simulation  2   h =  9 
+Step  48  of  500  from simulation  2   h =  9 
+Step  49  of  500  from simulation  2   h =  9 
+Step  50  of  500  from simulation  2   h =  9 
+Step  1  of  500  from simulation  3   h =  9 
+Step  2  of  500  from simulation  3   h =  9 
+Step  3  of  500  from simulation  3   h =  9 
+Step  4  of  500  from simulation  3   h =  9 
+Step  5  of  500  from simulation  3   h =  9 
+Step  6  of  500  from simulation  3   h =  9 
+Step  7  of  500  from simulation  3   h =  9 
+Step  8  of  500  from simulation  3   h =  9 
+Step  9  of  500  from simulation  3   h =  9 
+Step  10  of  500  from simulation  3   h =  9 
+Step  11  of  500  from simulation  3   h =  9 
+Step  12  of  500  from simulation  3   h =  9 
+Step  13  of  500  from simulation  3   h =  9 
+Step  14  of  500  from simulation  3   h =  9 
+Step  15  of  500  from simulation  3   h =  9 
+Step  16  of  500  from simulation  3   h =  9 
+Step  17  of  500  from simulation  3   h =  9 
+Step  18  of  500  from simulation  3   h =  9 
+Step  19  of  500  from simulation  3   h =  9 
+Step  20  of  500  from simulation  3   h =  9 
+Step  21  of  500  from simulation  3   h =  9 
+Step  22  of  500  from simulation  3   h =  9 
+Step  23  of  500  from simulation  3   h =  9 
+Step  24  of  500  from simulation  3   h =  9 
+Step  25  of  500  from simulation  3   h =  9 
+Step  26  of  500  from simulation  3   h =  9 
+Step  27  of  500  from simulation  3   h =  9 
+Step  28  of  500  from simulation  3   h =  9 
+Step  29  of  500  from simulation  3   h =  9 
+Step  30  of  500  from simulation  3   h =  9 
+Step  31  of  500  from simulation  3   h =  9 
+Step  32  of  500  from simulation  3   h =  9 
+Step  33  of  500  from simulation  3   h =  9 
+Step  34  of  500  from simulation  3   h =  9 
+Step  35  of  500  from simulation  3   h =  9 
+Step  36  of  500  from simulation  3   h =  9 
+Step  37  of  500  from simulation  3   h =  9 
+Step  38  of  500  from simulation  3   h =  9 
+Step  39  of  500  from simulation  3   h =  9 
+Step  40  of  500  from simulation  3   h =  9 
+Step  41  of  500  from simulation  3   h =  9 
+Step  42  of  500  from simulation  3   h =  9 
+Step  43  of  500  from simulation  3   h =  9 
+Step  44  of  500  from simulation  3   h =  9 
+Step  45  of  500  from simulation  3   h =  9 
+Step  46  of  500  from simulation  3   h =  9 
+Step  47  of  500  from simulation  3   h =  9 
+Step  48  of  500  from simulation  3   h =  9 
+Step  49  of  500  from simulation  3   h =  9 
+Step  50  of  500  from simulation  3   h =  9 
+Step  1  of  500  from simulation  4   h =  9 
+Step  2  of  500  from simulation  4   h =  9 
+Step  3  of  500  from simulation  4   h =  9 
+Step  4  of  500  from simulation  4   h =  9 
+Step  5  of  500  from simulation  4   h =  9 
+Step  6  of  500  from simulation  4   h =  9 
+Step  7  of  500  from simulation  4   h =  9 
+Step  8  of  500  from simulation  4   h =  9 
+Step  9  of  500  from simulation  4   h =  9 
+Step  10  of  500  from simulation  4   h =  9 
+Step  11  of  500  from simulation  4   h =  9 
+Step  12  of  500  from simulation  4   h =  9 
+Step  13  of  500  from simulation  4   h =  9 
+Step  14  of  500  from simulation  4   h =  9 
+Step  15  of  500  from simulation  4   h =  9 
+Step  16  of  500  from simulation  4   h =  9 
+Step  17  of  500  from simulation  4   h =  9 
+Step  18  of  500  from simulation  4   h =  9 
+Step  19  of  500  from simulation  4   h =  9 
+Step  20  of  500  from simulation  4   h =  9 
+Step  21  of  500  from simulation  4   h =  9 
+Step  22  of  500  from simulation  4   h =  9 
+Step  23  of  500  from simulation  4   h =  9 
+Step  24  of  500  from simulation  4   h =  9 
+Step  25  of  500  from simulation  4   h =  9 
+Step  26  of  500  from simulation  4   h =  9 
+Step  27  of  500  from simulation  4   h =  9 
+Step  28  of  500  from simulation  4   h =  9 
+Step  29  of  500  from simulation  4   h =  9 
+Step  30  of  500  from simulation  4   h =  9 
+Step  31  of  500  from simulation  4   h =  9 
+Step  32  of  500  from simulation  4   h =  9 
+Step  33  of  500  from simulation  4   h =  9 
+Step  34  of  500  from simulation  4   h =  9 
+Step  35  of  500  from simulation  4   h =  9 
+Step  36  of  500  from simulation  4   h =  9 
+Step  37  of  500  from simulation  4   h =  9 
+Step  38  of  500  from simulation  4   h =  9 
+Step  39  of  500  from simulation  4   h =  9 
+Step  40  of  500  from simulation  4   h =  9 
+Step  41  of  500  from simulation  4   h =  9 
+Step  42  of  500  from simulation  4   h =  9 
+Step  43  of  500  from simulation  4   h =  9 
+Step  44  of  500  from simulation  4   h =  9 
+Step  45  of  500  from simulation  4   h =  9 
+Step  46  of  500  from simulation  4   h =  9 
+Step  47  of  500  from simulation  4   h =  9 
+Step  48  of  500  from simulation  4   h =  9 
+Step  49  of  500  from simulation  4   h =  9 
+Step  50  of  500  from simulation  4   h =  9 
+Step  1  of  500  from simulation  1   h =  10 
+Step  4  of  500  from simulation Step  h =        f  of  10e50  f   from simulation   of from simulation  1500 from simulation 10rom simulation   =   =   = 10  0h =  
+10 
+h =  10 
+Step  9  of  500  from simulation  1   h =  10 
+Step  10  of  500  from simulation  1   h =  10 
+Step  11  of  500  from simulation  1   h =  10 
+Step  12  of  500  from simulation  1   h =  10 
+Step  13  of  500  from simulation  1   h =  10 
+Step  14  of  500  from simulation  1   h =  10 
+Step  15  of  500  from simulation  1   h =  10 
+Step  16  of  500  from simulation  1   h =  10 
+Step  17  of  500  from simulation  1   h =  10 
+Step  18  of  500  from simulation  1   h =  10 
+Step  19  of  500  from simulation  1   h =  10 
+Step  20  of  500  from simulation  1   h =  10 
+Step  21  of  500  from simulation  1   h =  10 
+Step  22  of  500  from simulation  1   h =  10 
+Step  23  of  500  from simulation  1   h =  10 
+Step  24  of  500  from simulation  1   h =  10 
+Step  25  of  500  from simulation  1   h =  10 
+Step  26  of  500  from simulation  1   h =  10 
+Step  27  of  500  from simulation  1   h =  10 
+Step  28  of  500  from simulation  1   h =  10 
+Step  29  of  500  from simulation  1   h =  10 
+Step  30  of  500  from simulation  1   h =  10 
+Step  31  of  500  from simulation  1   h =  10 
+Step  32  of  500  from simulation  1   h =  10 
+Step  33  of  500  from simulation  1   h =  10 
+Step  34  of  500  from simulation  1   h =  10 
+Step  35  of  500  from simulation  1   h =  10 
+Step  36  of  500  from simulation  1   h =  10 
+Step  37  of  500  from simulation  1   h =  10 
+Step  38  of  500  from simulation  1   h =  10 
+Step  39  of  500  from simulation  1   h =  10 
+Step  40  of  500  from simulation  1   h =  10 
+Step  41  of  500  from simulation  1   h =  10 
+Step  42  of  500  from simulation  1   h =  10 
+Step  43  of  500  from simulation  1   h =  10 
+Step  44  of  500  from simulation  1   h =  10 
+Step  45  of  500  from simulation  1   h =  10 
+Step  46  of  500  from simulation  1   h =  10 
+Step  47  of  500  from simulation  1   h =  10 
+Step  48  of  500  from simulation  1   h =  10 
+Step  49  of  500  from simulation  1   h =  10 
+Step  50  of  500  from simulation  1   h =  10 
+Step  1  of  500  from simulation  2   h =  10 
+Step  2  of  500  from simulation  2   h =  10 
+Step  3  of  500  from simulation  2   h =  10 
+Step  4  of  500  from simulation  2   h =  10 
+Step  5  of  500  from simulation  2   h =  10 
+Step  6  of  500  from simulation  2   h =  10 
+Step  7  of  500  from simulation  2   h =  10 
+Step  8  of  500  from simulation  2   h =  10 
+Step  9  of  500  from simulation  2   h =  10 
+Step  10  of  500  from simulation  2   h =  10 
+Step  11  of  500  from simulation  2   h =  10 
+Step  12  of  500  from simulation  2   h =  10 
+Step  13  of  500  from simulation  2   h =  10 
+Step  14  of  500  from simulation  2   h =  10 
+Step  15  of  500  from simulation  2   h =  10 
+Step  16  of  500  from simulation  2   h =  10 
+Step  17  of  500  from simulation  2   h =  10 
+Step  18  of  500  from simulation  2   h =  10 
+Step  19  of  500  from simulation  2   h =  10 
+Step  20  of  500  from simulation  2   h =  10 
+Step  21  of  500  from simulation  2   h =  10 
+Step  22  of  500  from simulation  2   h =  10 
+Step  23  of  500  from simulation  2   h =  10 
+Step  24  of  500  from simulation  2   h =  10 
+Step  25  of  500  from simulation  2   h =  10 
+Step  26  of  500  from simulation  2   h =  10 
+Step  27  of  500  from simulation  2   h =  10 
+Step  28  of  500  from simulation  2   h =  10 
+Step  29  of  500  from simulation  2   h =  10 
+Step  30  of  500  from simulation  2   h =  10 
+Step  31  of  500  from simulation  2   h =  10 
+Step  32  of  500  from simulation  2   h =  10 
+Step  33  of  500  from simulation  2   h =  10 
+Step  34  of  500  from simulation  2   h =  10 
+Step  35  of  500  from simulation  2   h =  10 
+Step  36  of  500  from simulation  2   h =  10 
+Step  37  of  500  from simulation  2   h =  10 
+Step  38  of  500  from simulation  2   h =  10 
+Step  39  of  500  from simulation  2   h =  10 
+Step  40  of  500  from simulation  2   h =  10 
+Step  41  of  500  from simulation  2   h =  10 
+Step  42  of  500  from simulation  2   h =  10 
+Step  43  of  500  from simulation  2   h =  10 
+Step  44  of  500  from simulation  2   h =  10 
+Step  45  of  500  from simulation  2   h =  10 
+Step  46  of  500  from simulation  2   h =  10 
+Step  47  of  500  from simulation  2   h =  10 
+Step  48  of  500  from simulation  2   h =  10 
+Step  49  of  500  from simulation  2   h =  10 
+Step  50  of  500  from simulation  2   h =  10 
+Step  1  of  500  from simulation  3   h =  10 
+Step  2  of  500  from simulation  3   h =  10 
+Step  3  of  500  from simulation  3   h =  10 
+Step  4  of  500  from simulation  3   h =  10 
+Step  5  of  500  from simulation  3   h =  10 
+Step  6  of  500  from simulation  3   h =  10 
+Step  7  of  500  from simulation  3   h =  10 
+Step  8  of  500  from simulation  3   h =  10 
+Step  9  of  500  from simulation  3   h =  10 
+Step  10  of  500  from simulation  3   h =  10 
+Step  11  of  500  from simulation  3   h =  10 
+Step  12  of  500  from simulation  3   h =  10 
+Step  13  of  500  from simulation  3   h =  10 
+Step  14  of  500  from simulation  3   h =  10 
+Step  15  of  500  from simulation  3   h =  10 
+Step  16  of  500  from simulation  3   h =  10 
+Step  17  of  500  from simulation  3   h =  10 
+Step  18  of  500  from simulation  3   h =  10 
+Step  19  of  500  from simulation  3   h =  10 
+Step  20  of  500  from simulation  3   h =  10 
+Step  21  of  500  from simulation  3   h =  10 
+Step  22  of  500  from simulation  3   h =  10 
+Step  23  of  500  from simulation  3   h =  10 
+Step  24  of  500  from simulation  3   h =  10 
+Step  25  of  500  from simulation  3   h =  10 
+Step  26  of  500  from simulation  3   h =  10 
+Step  27  of  500  from simulation  3   h =  10 
+Step  28  of  500  from simulation  3   h =  10 
+Step  29  of  500  from simulation  3   h =  10 
+Step  30  of  500  from simulation  3   h =  10 
+Step  31  of  500  from simulation  3   h =  10 
+Step  32  of  500  from simulation  3   h =  10 
+Step  33  of  500  from simulation  3   h =  10 
+Step  34  of  500  from simulation  3   h =  10 
+Step  35  of  500  from simulation  3   h =  10 
+Step  36  of  500  from simulation  3   h =  10 
+Step  37  of  500  from simulation  3   h =  10 
+Step  38  of  500  from simulation  3   h =  10 
+Step  39  of  500  from simulation  3   h =  10 
+Step  40  of  500  from simulation  3   h =  10 
+Step  41  of  500  from simulation  3   h =  10 
+Step  42  of  500  from simulation  3   h =  10 
+Step  43  of  500  from simulation  3   h =  10 
+Step  44  of  500  from simulation  3   h =  10 
+Step  45  of  500  from simulation  3   h =  10 
+Step  46  of  500  from simulation  3   h =  10 
+Step  47  of  500  from simulation  3   h =  10 
+Step  48  of  500  from simulation  3   h =  10 
+Step  49  of  500  from simulation  3   h =  10 
+Step  50  of  500  from simulation  3   h =  10 
+Step  1  of  500  from simulation  4   h =  10 
+Step  2  of  500  from simulation  4   h =  10 
+Step  3  of  500  from simulation  4   h =  10 
+Step  4  of  500  from simulation  4   h =  10 
+Step  5  of  500  from simulation  4   h =  10 
+Step  6  of  500  from simulation  4   h =  10 
+Step  7  of  500  from simulation  4   h =  10 
+Step  8  of  500  from simulation  4   h =  10 
+Step  9  of  500  from simulation  4   h =  10 
+Step  10  of  500  from simulation  4   h =  10 
+Step  11  of  500  from simulation  4   h =  10 
+Step  12  of  500  from simulation  4   h =  10 
+Step  13  of  500  from simulation  4   h =  10 
+Step  14  of  500  from simulation  4   h =  10 
+Step  15  of  500  from simulation  4   h =  10 
+Step  16  of  500  from simulation  4   h =  10 
+Step  17  of  500  from simulation  4   h =  10 
+Step  18  of  500  from simulation  4   h =  10 
+Step  19  of  500  from simulation  4   h =  10 
+Step  20  of  500  from simulation  4   h =  10 
+Step  21  of  500  from simulation  4   h =  10 
+Step  22  of  500  from simulation  4   h =  10 
+Step  23  of  500  from simulation  4   h =  10 
+Step  24  of  500  from simulation  4   h =  10 
+Step  25  of  500  from simulation  4   h =  10 
+Step  26  of  500  from simulation  4   h =  10 
+Step  27  of  500  from simulation  4   h =  10 
+Step  28  of  500  from simulation  4   h =  10 
+Step  29  of  500  from simulation  4   h =  10 
+Step  30  of  500  from simulation  4   h =  10 
+Step  31  of  500  from simulation  4   h =  10 
+Step  32  of  500  from simulation  4   h =  10 
+Step  33  of  500  from simulation  4   h =  10 
+Step  34  of  500  from simulation  4   h =  10 
+Step  35  of  500  from simulation  4   h =  10 
+Step  36  of  500  from simulation  4   h =  10 
+Step  37  of  500  from simulation  4   h =  10 
+Step  38  of  500  from simulation  4   h =  10 
+Step  39  of  500  from simulation  4   h =  10 
+Step  40  of  500  from simulation  4   h =  10 
+Step  41  of  500  from simulation  4   h =  10 
+Step  42  of  500  from simulation  4   h =  10 
+Step  43  of  500  from simulation  4   h =  10 
+Step  44  of  500  from simulation  4   h =  10 
+Step  45  of  500  from simulation  4   h =  10 
+Step  46  of  500  from simulation  4   h =  10 
+Step  47  of  500  from simulation  4   h =  10 
+Step  48  of  500  from simulation  4   h =  10 
+Step  49  of  500  from simulation  4   h =  10 
+Step  50  of  500  from simulation  4   h =  10 
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Execution halted
+There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Execution halted
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+starting worker pid=20492 on localhost:11092 at 12:01:11.690
+starting worker pid=6132 on localhost:11092 at 12:01:11.863
+starting worker pid=12356 on localhost:11092 at 12:01:12.042
+starting worker pid=21828 on localhost:11092 at 12:01:12.231
+starting worker pid=22352 on localhost:11092 at 12:01:12.411
+starting worker pid=8088 on localhost:11092 at 12:01:12.580
+starting worker pid=20932 on localhost:11092 at 12:01:12.750
+starting worker pid=22464 on localhost:11092 at 12:01:12.916
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+ze(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+starting worker pid=18136 on localhost:11793 at 13:22:34.219
+starting worker pid=3848 on localhost:11793 at 13:22:34.395
+starting worker pid=20708 on localhost:11793 at 13:22:34.564
+starting worker pid=20904 on localhost:11793 at 13:22:34.728
+starting worker pid=5564 on localhost:11793 at 13:22:34.911
+starting worker pid=5928 on localhost:11793 at 13:22:35.096
+starting worker pid=408 on localhost:11793 at 13:22:35.263
+starting worker pid=21036 on localhost:11793 at 13:22:35.422
+Loading required package: cubature
+Loading required package: cubature
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+Loading required package: cubature
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+Loading required package: geometry
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: geometry
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+Loading required package: geometry
+Loading required package: ttutils
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: ttutils
+Loading required package: geometry
+Loading required package: SparseM
+Loading required package: ttutils
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: SparseM
+Loading required package: ttutils
+Loading required package: geometry
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: geometry
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: SparseM
+Loading required package: ttutils
+Loading required package: geometry
+Loading required package: ttutils
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: SparseM
+Loading required package: ttutils
+Loading required package: SparseM
+Loading required package: geometry
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: SparseM
+Loading required package: ttutils
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+Step Step  2S of  500  from simulation Step  00 Step  simulation    4 of  of  550  
+ from simulation  11      f  tep 1  6
+0 tep  from simulation 7 = 11of   h =  of  1 00
+ from simulation  tep   500   from simulation h =   18  of  500  from simulation  1   h =  1 
+   h =  1 
+ 
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 12 warnings (use warnings() to see them)
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Warning messages:
+In addition: loptr' was built under R version 4.1.3 
+2: package 'cubature' was built under R version 4.1.3 
+3: package 'rgl' was built under R version 4.1.3 
+4: package 'geometry' was built under R version 4.1.3 
+There were 14 warnings (use warnings() to see them)3 
+6: package 'orthopolynom' was built under R version 4.1.3 
+7: package 'quantreg' was built under R version 4.1.3 
+8: package 'survival' was built under R version 4.1.3 
+Execution halted
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+3: package 'rgl' was built under R version 4.1.3 
+4: package 'geometry' was built under R version 4.1.3 
+5: package 'ttutils' was built under R version 4.1.3 
+nection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+There were 20 warnings (use warnings() to see them)
+In addition: Warning messages:
+Warning messages:
+1: package 'nloptr' was built under R version 4.1.3 
+1: package 'nloptr' was built under R version 4.1.3 
+2: package 'cubature' was built under R version 4.1.3 
+2: package 'cubature' was built under R version 4.1.3 
+3: package 'rgl' was built under R version 4.1.3 
+3: package 'rgl' was built under R version 4.1.3 
+4: package 'geometry' was built under R version 4.1.3 
+4: package 'geometry' was built under R version 4.1.3 
+5: package 'ttutils' was built under R version 4.1.3 
+6: package 'orthopolynom' was built under R version 4.1.3 
+7: package 'quantreg' was built under R version 4.1.3 
+ection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+6: package 'orthopolynom' was built under R version 4.1.3 
+7: package 'quantreg' was built under R version 4.1.3 
+8: package 'survival' was built under R version 4.1.3 
+9: There were 14 warnings (use warnings() to see them)
+In log(1 - F) : NaNs produced
+10: Execution halted
+In log(1 - F) : NaNs produced
+ NaNs produced
+5: package 'ttutils' was built under R version 4.1.3 
+6: package 'orthopolynom' was built under R version 4.1.3 
+7: package 'quantreg' was built under R version 4.1.3 
+8: package 'survival' was built under R version 4.1.3 
+Execution halted
+starting worker pid=3756 on localhost:11631 at 14:49:26.661
+starting worker pid=20400 on localhost:11631 at 14:49:26.882
+starting worker pid=7152 on localhost:11631 at 14:49:27.089
+starting worker pid=9528 on localhost:11631 at 14:49:27.290
+starting worker pid=5032 on localhost:11631 at 14:49:27.475
+starting worker pid=22428 on localhost:11631 at 14:49:27.648
+starting worker pid=15320 on localhost:11631 at 14:49:27.836
+starting worker pid=11796 on localhost:11631 at 14:49:28.036
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Execution halted
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+starting worker pid=2868 on localhost:11092 at 14:51:19.637
+starting worker pid=1952 on localhost:11092 at 14:51:19.841
+starting worker pid=16056 on localhost:11092 at 14:51:20.026
+starting worker pid=19080 on localhost:11092 at 14:51:20.203
+starting worker pid=11252 on localhost:11092 at 14:51:20.398
+starting worker pid=15452 on localhost:11092 at 14:51:20.594
+starting worker pid=19368 on localhost:11092 at 14:51:20.775
+starting worker pid=20676 on localhost:11092 at 14:51:20.954
+starting worker pid=3348 on localhost:11659 at 15:55:01.912
+starting worker pid=13288 on localhost:11659 at 15:55:02.113
+starting worker pid=3212 on localhost:11659 at 15:55:02.301
+starting worker pid=21312 on localhost:11659 at 15:55:02.481
+starting worker pid=19852 on localhost:11659 at 15:55:02.705
+starting worker pid=19916 on localhost:11659 at 15:55:02.896
+starting worker pid=21728 on localhost:11659 at 15:55:03.074
+starting worker pid=6488 on localhost:11659 at 15:55:03.259
+Loading required package: cubature
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: cubature
+Loading required package: rgl
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: geometry
+Loading required package: geometry
+Loading required package: geometry
+Loading required package: ttutils
+Loading required package: geometry
+Loading required package: ttutils
+Loading required package: ttutils
+Loading required package: ttutils
+Loading required package: SparseM
+Loading required package: SparseM
+Loading required package: geometry
+Loading required package: SparseM
+Loading required package: SparseM
+Loading required package: ttutils
+Loading required package: geometry
+Loading required package: ttutils
+
+Attaching package: 'SparseM'
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: SparseM
+Loading required package: geometry
+Loading required package: geometry
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: SparseM
+Loading required package: ttutils
+Loading required package: ttutils
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+Step St p Step   of 2  500   from simulation   from simulation      Step  h = 1 =    1of  of  
+0  from simulation Step 1     h =   = 500  from simulation 
+3   h =  1 
+Step     of   of   from simulation 500   from simulation  h = 4  
+ h =  1 
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: In addition: In addition: There were 50 or more warnings (use warnings() to see the first 50)ls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+
+There were 50 or more warnings (use warnings() to see the first 50)There were 50 or more warnings (use warnings() to see the first 50)ls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+In addition: There were 50 or more warnings (use warnings() to see the first 50)ExError in unseriaExecution halted
+ore warnings (use warnings() to see the first 50)... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Execution halted
+There were 50 or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Execution halted
+
+Execution halted
+starting worker pid=3112 on localhost:11257 at 15:57:36.266
+starting worker pid=5240 on localhost:11257 at 15:57:36.466
+starting worker pid=5848 on localhost:11257 at 15:57:36.648
+starting worker pid=10064 on localhost:11257 at 15:57:36.827
+starting worker pid=22496 on localhost:11257 at 15:57:37.031
+starting worker pid=18876 on localhost:11257 at 15:57:37.229
+starting worker pid=15824 on localhost:11257 at 15:57:37.415
+starting worker pid=17600 on localhost:11257 at 15:57:37.598
+Loading required package: cubature
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: cubature
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+Loading required package: cubature
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: geometry
+Loading required package: rgl
+Loading required package: ttutils
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: geometry
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: ttutils
+Loading required package: SparseM
+Loading required package: geometry
+Loading required package: geometry
+Loading required package: SparseM
+Loading required package: ttutils
+Loading required package: ttutils
+Loading required package: SparseM
+Loading required package: geometry
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: ttutils
+Loading required package: geometry
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: ttutils
+Loading required package: geometry
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: ttutils
+Loading required package: geometry
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: ttutils
+Loading required package: SparseM
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+Step  1  of  500  from simulation  1St p h = Step 1 of 2  
+ of  500om simulation   from simulation S ep  4 =   of    =  
+5 St500  of    of  from simulation 5501   from simulation  h =  1    1h =  
+1 =   1
+rom simulation  
+   h =  1S
+p  8  of  500  from simulation  1   h =  1 
+Step  9  of  500  from simulation  1   h =  1 
+Step  10  of  500  from simulation  1   h =  1 
+Step  1  of  500  from simulation  2   h =  1 
+Step  2  of  500  from simulation  2   h =  1 
+Step  3  of  500  from simulation  2   h =  1 
+Step  4  of  500  from simulation  2   h =  1 
+Step  5  of  500  from simulation  2   h =  1 
+Step  6  of  500  from simulation  2   h =  1 
+Step  7  of  500  from simulation  2   h =  1 
+Step  8  of  500  from simulation  2   h =  1 
+Step  9  of  500  from simulation  2   h =  1 
+Step  10  of  500  from simulation  2   h =  1 
+Step  1  of  500  from simulation  3   h =  1 
+Step  2  of  500  from simulation  3   h =  1 
+Step  3  of  500  from simulation  3   h =  1 
+Step  4  of  500  from simulation  3   h =  1 
+starting worker pid=22136 on localhost:11257 at 15:59:55.081
+starting worker pid=22428 on localhost:11257 at 15:59:55.293
+starting worker pid=19308 on localhost:11257 at 15:59:55.483
+starting worker pid=18596 on localhost:11257 at 15:59:55.687
+starting worker pid=7868 on localhost:11257 at 15:59:55.883
+starting worker pid=20924 on localhost:11257 at 15:59:56.096
+starting worker pid=14008 on localhost:11257 at 15:59:56.286
+starting worker pid=20244 on localhost:11257 at 15:59:56.488
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Error in unseExecution halted
+: error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition:  or more warnings (use warnings() to see the first 50)
+There were 50 or more warnings (use warnings() to see the first 50)ls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Execution halted
+Execution halted
+ze(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+Loading required package: cubature
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+Loading required package: cubature
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: cubature
+Loading required package: rgl
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+Loading required package: cubature
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: geometry
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: ttutils
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: SparseM
+Loading required package: geometry
+Loading required package: geometry
+Loading required package: ttutils
+Loading required package: ttutils
+Loading required package: geometry
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: geometry
+Loading required package: SparseM
+Loading required package: ttutils
+Loading required package: ttutils
+Loading required package: geometry
+Loading required package: SparseM
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: ttutils
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: geometry
+Loading required package: geometry
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: ttutils
+Loading required package: ttutils
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: SparseM
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+Step  1 Step Ste   Step simulation  of  1200 of  of  from simulation 5001  from simulation   from simulation h =    1  tep 
+= 2    =  of  500  from simulation  3   h =  1Step  
+2  of Step  00 S from simulation   4of  h =  of 1500  
+ from simulation  
+4   h =  1 
+500  from simulation  3   h =  1 
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+There were 50 or more warnings (use warnings() to see the first 50)Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: In addition: Execution halted
+There were 50 or more warnings (use warnings() to see the first 50)
+ere were 50 or more warnings (use warnings() to see the first 50)
+
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+There were 50 or more warnings (use warnings() to see the first 50)
+In addition: Execution halted
+Execution halted
+There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted
+starting worker pid=8552 on localhost:11080 at 16:02:35.827
+starting worker pid=17600 on localhost:11080 at 16:02:36.024
+starting worker pid=152 on localhost:11080 at 16:02:36.209
+starting worker pid=21972 on localhost:11080 at 16:02:36.396
+starting worker pid=15180 on localhost:11080 at 16:02:36.636
+starting worker pid=19972 on localhost:11080 at 16:02:36.860
+starting worker pid=3284 on localhost:11080 at 16:02:37.087
+starting worker pid=13776 on localhost:11080 at 16:02:37.278
+Loading required package: cubature
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+Loading required package: cubature
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+Loading required package: cubature
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: cubature
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: SimplicialCubature
+Loading required package: mvmesh
+Loading required package: rcdd
+If you want correct answers, use rational arithmetic.
+See the Warnings sections in help pages for
+    functions that do computational geometry.
+Loading required package: rgl
+Loading required package: geometry
+Loading required package: geometry
+Loading required package: geometry
+Loading required package: ttutils
+Loading required package: ttutils
+Loading required package: ttutils
+Loading required package: SparseM
+Loading required package: SparseM
+Loading required package: SparseM
+Loading required package: geometry
+Loading required package: ttutils
+Loading required package: geometry
+Loading required package: ttutils
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: geometry
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: ttutils
+Loading required package: SparseM
+Loading required package: geometry
+Loading required package: geometry
+Loading required package: ttutils
+
+Attaching package: 'SparseM'
+
+Loading required package: SparseM
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: ttutils
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+
+Attaching package: 'survival'
+
+The following object is masked from 'package:quantreg':
+
+    untangle.specials
+
+Step  1  of  500 Step  simulation   2  of  500Step 1from simulation  1Step   h = 500p     tep  simulation   =  2 of  f 1500  00  frh = imulation    rom simulation  from simulation 1 ep 324  h =  of h = h = 1 
+100 
+ 
+ from simulation  
+4   h =  1 
+starting worker pid=18816 on localhost:11251 at 19:27:39.116
+starting worker pid=11640 on localhost:11251 at 19:27:39.332
+starting worker pid=13788 on localhost:11251 at 19:27:39.550
+starting worker pid=2516 on localhost:11251 at 19:27:39.781
+starting worker pid=18616 on localhost:11251 at 19:27:40.036
+starting worker pid=19480 on localhost:11251 at 19:27:40.243
+starting worker pid=1088 on localhost:11251 at 19:27:40.468
+starting worker pid=17172 on localhost:11251 at 19:27:40.680
+starting worker pid=18300 on localhost:11644 at 00:02:42.576
+starting worker pid=22780 on localhost:11644 at 00:02:42.801
+starting worker pid=21608 on localhost:11644 at 00:02:43.096
+starting worker pid=15504 on localhost:11644 at 00:02:43.329
+starting worker pid=11936 on localhost:11644 at 00:02:43.560
+starting worker pid=13188 on localhost:11644 at 00:02:43.766
+starting worker pid=19840 on localhost:11644 at 00:02:43.983
+starting worker pid=3652 on localhost:11644 at 00:02:44.207
+starting worker pid=16692 on localhost:11251 at 00:17:06.570
+starting worker pid=13164 on localhost:11251 at 00:17:06.774
+starting worker pid=7964 on localhost:11251 at 00:17:06.981
+starting worker pid=21344 on localhost:11251 at 00:17:07.236
+starting worker pid=19316 on localhost:11251 at 00:17:07.426
+starting worker pid=9380 on localhost:11251 at 00:17:07.629
+starting worker pid=21256 on localhost:11251 at 00:17:07.831
+starting worker pid=23204 on localhost:11251 at 00:17:08.030
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+starting worker pid=1940 on localhost:11934 at 00:27:48.171
+starting worker pid=16300 on localhost:11934 at 00:27:48.365
+starting worker pid=13376 on localhost:11934 at 00:27:48.543
+starting worker pid=20820 on localhost:11934 at 00:27:48.728
+starting worker pid=20240 on localhost:11934 at 00:27:48.950
+starting worker pid=12828 on localhost:11934 at 00:27:49.153
+starting worker pid=2332 on localhost:11934 at 00:27:49.368
+starting worker pid=22352 on localhost:11934 at 00:27:49.549
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Execution halted
+starting worker pid=18452 on localhost:11159 at 00:44:51.086
+starting worker pid=9444 on localhost:11159 at 00:44:51.288
+starting worker pid=13916 on localhost:11159 at 00:44:51.471
+starting worker pid=12768 on localhost:11159 at 00:44:51.656
+starting worker pid=22968 on localhost:11159 at 00:44:51.863
+starting worker pid=21188 on localhost:11159 at 00:44:52.055
+starting worker pid=16056 on localhost:11159 at 00:44:52.250
+starting worker pid=5980 on localhost:11159 at 00:44:52.425
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+Execution halted
